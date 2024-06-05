@@ -7,8 +7,8 @@ class Solution:
         outdegree = defaultdict(int)
 
         for trusts, trusted in trust:
-            indegree[trusted] += 1
             outdegree[trusts] += 1
+            indegree[trusted] += 1
 
         for node, in_degree in indegree.items():
             if in_degree == n - 1 and outdegree[node] == 0:
