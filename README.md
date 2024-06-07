@@ -5,10 +5,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Depth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/anduckhmt146/leetcode-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/anduckhmt146/leetcode-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 # Union Find
 |  |
@@ -17,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/anduckhmt146/leetcode-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/anduckhmt146/leetcode-practice/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 # Array
@@ -27,3 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/anduckhmt146/leetcode-practice/tree/master/1039-find-the-town-judge) |
+# Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/anduckhmt146/leetcode-practice/tree/master/0813-all-paths-from-source-to-target) |
