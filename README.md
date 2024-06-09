@@ -29,10 +29,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anduckhmt146/leetcode-practice/tree/master/0463-island-perimeter) |
+| [0990-verifying-an-alien-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/anduckhmt146/leetcode-practice/tree/master/1039-find-the-town-judge) |
 # Hash Table
 |  |
 | ------- |
+| [0990-verifying-an-alien-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/anduckhmt146/leetcode-practice/tree/master/1039-find-the-town-judge) |
 # Backtracking
 |  |
@@ -42,3 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anduckhmt146/leetcode-practice/tree/master/0463-island-perimeter) |
+# String
+|  |
+| ------- |
+| [0990-verifying-an-alien-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0990-verifying-an-alien-dictionary) |
