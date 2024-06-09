@@ -6,17 +6,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anduckhmt146/leetcode-practice/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/anduckhmt146/leetcode-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anduckhmt146/leetcode-practice/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/anduckhmt146/leetcode-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 # Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 # Graph
 |  |
@@ -29,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anduckhmt146/leetcode-practice/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0990-verifying-an-alien-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/anduckhmt146/leetcode-practice/tree/master/1039-find-the-town-judge) |
 # Hash Table
@@ -44,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anduckhmt146/leetcode-practice/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 # String
 |  |
 | ------- |
