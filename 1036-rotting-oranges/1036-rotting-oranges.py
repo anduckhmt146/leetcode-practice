@@ -15,26 +15,25 @@ class Solution:
                     queue.append((r, c))
                 elif grid[r][c] == 1:
                     fresh_oranges += 1
-        
-        # Directions for the 4-adjacency
-        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
-        
-        # Variable to keep track of minutes elapsed
-        minutes_elapsed = 0
-        
-        # BFS traversal
-        while queue and fresh_oranges > 0:
-            minutes_elapsed += 1
-            for _ in range(len(queue)):
-                x, y = queue.popleft()
-                
-                for dx, dy in directions:
-                    nx, ny = x + dx, y + dy
-                    if 0 <= nx < rows and 0 <= ny < cols and grid[nx][ny] == 1:
-                        # This fresh orange now becomes rotten
-                        grid[nx][ny] = 2
-                        fresh_oranges -= 1
-                        queue.append((nx, ny))
-        
-        # If there are still fresh oranges left, return -1
-        return minutes_elapsed if fresh_oranges == 0 else -1
+
+        def bfs(queue: deque, fresh_oranges: int) -> int:
+            # Directions for the 4-adjacency
+            directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+            minutes_elapsed = 0
+            
+            while queue and fresh_oranges > 0:
+                minutes_elapsed += 1
+                for _ in range(len(queue)):
+                    x, y = queue.popleft()
+                    
+                    for dx, dy in directions:
+                        nx, ny = x + dx, y + dy
+                        if 0 <= nx < rows and 0 <= ny < cols and grid[nx][ny] == 1:
+                            # This fresh orange now becomes rotten
+                            grid[nx][ny] = 2
+                            fresh_oranges -= 1
+                            queue.append((nx, ny))
+            
+            return minutes_elapsed if fresh_oranges == 0 else -1
+    
+        return bfs(queue, fresh_oranges)
