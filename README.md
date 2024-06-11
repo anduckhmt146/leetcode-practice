@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anduckhmt146/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0463-island-perimeter](https://github.com/anduckhmt146/leetcode-practice/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0990-verifying-an-alien-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0990-verifying-an-alien-dictionary) |
@@ -61,3 +62,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0990-verifying-an-alien-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0990-verifying-an-alien-dictionary) |
+# Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anduckhmt146/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+# Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anduckhmt146/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
