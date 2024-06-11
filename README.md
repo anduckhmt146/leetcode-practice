@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/anduckhmt146/leetcode-practice/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/anduckhmt146/leetcode-practice/tree/master/0813-all-paths-from-source-to-target) |
+| [2035-count-sub-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 # Breadth-First Search
 |  |
@@ -16,11 +17,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/anduckhmt146/leetcode-practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/anduckhmt146/leetcode-practice/tree/master/1036-rotting-oranges) |
+| [2035-count-sub-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 # Union Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [2035-count-sub-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 # Graph
 |  |
@@ -37,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/anduckhmt146/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/anduckhmt146/leetcode-practice/tree/master/1039-find-the-town-judge) |
+| [2035-count-sub-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/2035-count-sub-islands) |
 # Hash Table
 |  |
 | ------- |
@@ -52,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/anduckhmt146/leetcode-practice/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/anduckhmt146/leetcode-practice/tree/master/1036-rotting-oranges) |
+| [2035-count-sub-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/2035-count-sub-islands) |
 # String
 |  |
 | ------- |
