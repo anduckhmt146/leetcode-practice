@@ -93,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+## Database
+|  |
+| ------- |
+| [1301-reformat-department-table](https://github.com/anduckhmt146/leetcode-practice/tree/master/1301-reformat-department-table) |
 <!---LeetCode Topics End-->
