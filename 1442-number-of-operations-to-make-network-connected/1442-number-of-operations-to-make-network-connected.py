@@ -2,8 +2,14 @@ class Solution:
     def makeConnected(self, n: int, connections: List[List[int]]) -> int:
         if (len(connections) < n - 1):
             return -1
+
+        # Adjacency matrix
+        # graph = [[0] * n for _ in range(n)]
+        # for u, v in connections:
+        #     graph[u].append(v)
+        #     graph[v].append(u)
         
-        # Create adjacency list
+        # Optimize memory limit exceed from adjacency matrix to adjacency list
         graph = [[] for _ in range(n)]
         for u, v in connections:
             graph[u].append(v)
