@@ -17,9 +17,9 @@ class Solution:
                 i += 1
 
             elif char == ')':
-                stack = deque(reversed(stack))
                 prev_stack = gstack.pop()
-                prev_stack.extend(stack)
+                while stack:
+                    prev_stack.append(stack.pop())
                 stack = prev_stack
                 i += 1
 
