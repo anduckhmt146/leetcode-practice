@@ -113,4 +113,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anduckhmt146/leetcode-practice/tree/master/1442-number-of-operations-to-make-network-connected) |
+## String
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anduckhmt146/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anduckhmt146/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
