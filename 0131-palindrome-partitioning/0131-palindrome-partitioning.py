@@ -1,5 +1,10 @@
 from typing import List
 
+# We start at index 0 and try to partition the string at different points.
+# If a substring is a palindrome, we add it to our current partition (path) and recur for the remaining string.
+# Once we reach the end of the string, we store the valid partition.
+# We then backtrack (undo the last addition) to explore other possibilities.
+
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
         ans = []
