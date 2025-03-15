@@ -6,7 +6,7 @@ class Solution:
         used = [False] * len(nums)
         
         def dfs(start_index, path):
-            if len(path) == len(nums):  # is_leaf condition
+            if start_index == len(nums):  # is_leaf condition
                 ans.append(path[:])  # Add a copy of the path to results
                 return
             
