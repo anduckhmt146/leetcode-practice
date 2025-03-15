@@ -1,4 +1,5 @@
 class Solution:
+    # Think state as abstraction, not the detail flows
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         ans = []
         nums.sort()  # Sort to handle duplicates
