@@ -157,10 +157,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/anduckhmt146/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/anduckhmt146/leetcode-practice/tree/master/0198-house-robber) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
