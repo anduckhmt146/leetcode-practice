@@ -7,13 +7,16 @@ class Solution:
         
         def dfs(start_index, path):
             if start_index == len(nums):  # is_leaf condition
+                # NOTE: Backtrack when reach the final state
                 ans.append(path[:])  # Add a copy of the path to results
                 return
             
             for i in range(len(nums)):  # get_edges
                 if used[i]:  # prune invalid edges
+                    # NOTE: Backtrack in the middle state
                     continue
                 # i - 1 is parent, i is current
+                # NOTE: Prunning when duplicate 1 1 1 1, select others 1 is not have any meanings
                 if i > 0 and nums[i] == nums[i - 1] and not used[i - 1]:
                     continue  # Skip duplicates
                 
