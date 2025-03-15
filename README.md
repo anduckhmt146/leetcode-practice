@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anduckhmt146/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
@@ -127,4 +128,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0047-permutations-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
