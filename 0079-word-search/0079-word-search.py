@@ -27,7 +27,7 @@ class Solution:
                 return True
 
             # If out of bounds or character does not match, return False
-            if not (0 <= row < num_rows and 0 <= col < num_cols) or board[row][col] != word[index]:
+            if board[row][col] != word[index]:
                 return False
 
             # Mark the cell as visited by changing the character temporarily
