@@ -1,21 +1,18 @@
-from typing import List
-
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ans = []
-        
-        def dfs(start_index, path):
-            if start_index == len(nums):  # Base case: reach the end
-                ans.append(path[:])  # Add a copy of the path to results
-                return
+        def backtrack(start, path):
+            # Add the current subset to the result
+            result.append(path[:])
             
-            # Decision to include nums[start_index]
-            path.append(nums[start_index])
-            dfs(start_index + 1, path)
-            path.pop()
-            
-            # Decision to exclude nums[start_index]
-            dfs(start_index + 1, path)
+            # Explore further elements to add to the current subset
+            for i in range(start, len(nums)):
+                # Include nums[i] in the subset
+                path.append(nums[i])
+                # Move on to the next element
+                backtrack(i + 1, path)
+                # Backtrack, remove nums[i] from the current subset
+                path.pop()
 
-        dfs(0, [])  # Start DFS from index 0
-        return ans
+        result = []
+        backtrack(0, [])
+        return result
