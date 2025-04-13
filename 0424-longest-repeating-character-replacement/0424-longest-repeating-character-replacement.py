@@ -19,7 +19,7 @@ class Solution:
             # repeating maxRepeatLetterCount times and the remaining letters we should replace
             # if the remaining letters are more than k, it is the time to shrink the window as we
             # are not allowed to replace more than k letters
-            if (windowEnd - windowStart + 1 - maxRepeatLetterCount) > k:
+            while (windowEnd - windowStart + 1 - maxRepeatLetterCount) > k:
                 startChar = s[windowStart]
                 charFrequency[startChar] -= 1
                 windowStart += 1
