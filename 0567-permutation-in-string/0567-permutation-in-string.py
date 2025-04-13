@@ -2,36 +2,40 @@ from collections import Counter
 
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
+        # Edge cases
         if len(s1) > len(s2):
             return False
-        
-        # Create a frequency count of characters in s1
-        s1_count = Counter(s1)
-        
-        # Create a frequency count of characters in the current window in s2
-        window_count = Counter()
-        
-        # Initial window size is len(s1)
-        for i in range(len(s1)):
-            window_count[s2[i]] += 1
-        
-        # Check if the initial window is a permutation of s1
-        if window_count == s1_count:
-            return True
-        
-        # Slide the window across s2
-        for i in range(len(s1), len(s2)):
-            # Add the new character to the window
-            window_count[s2[i]] += 1
-            # Remove the leftmost character of the window
-            window_count[s2[i - len(s1)]] -= 1
             
-            # If the count becomes 0, remove the character from the window count to keep it clean
-            if window_count[s2[i - len(s1)]] == 0:
-                del window_count[s2[i - len(s1)]]
+        # Initialize frequency maps
+        s1Map = {}
+        windowMap = {}
+        
+        # Build frequency map for s1
+        for char in s1:
+            s1Map[char] = s1Map.get(char, 0) + 1
             
-            # If the current window matches the s1_count, we found a permutation
-            if window_count == s1_count:
+        # Initialize sliding window with first len(s1) characters
+        windowStart = 0
+        
+        # Try to extend the range [windowStart, windowEnd]
+        for windowEnd in range(len(s2)):
+            # Add character to window frequency map
+            endChar = s2[windowEnd]
+            windowMap[endChar] = windowMap.get(endChar, 0) + 1
+            
+            # If window size is larger than s1 length, shrink window
+            if windowEnd >= len(s1):
+                startChar = s2[windowStart]
+                windowMap[startChar] -= 1
+                
+                # Remove character from map if count becomes 0
+                if windowMap[startChar] == 0:
+                    del windowMap[startChar]
+                    
+                windowStart += 1
+            
+            # Check if current window is a permutation
+            if windowMap == s1Map:
                 return True
-        
+                
         return False
