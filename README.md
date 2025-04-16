@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0047-permutations-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/anduckhmt146/leetcode-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anduckhmt146/leetcode-practice/tree/master/0079-word-search) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0567-permutation-in-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
