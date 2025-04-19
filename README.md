@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/anduckhmt146/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/anduckhmt146/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/anduckhmt146/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/anduckhmt146/leetcode-practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/anduckhmt146/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/anduckhmt146/leetcode-practice/tree/master/0874-backspace-string-compare) |
