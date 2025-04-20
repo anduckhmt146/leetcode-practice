@@ -8,6 +8,7 @@ class Solution:
         counter = Counter(answers)
         count = 0
 
+        # Edgecase: 1,1,1 => 2 group
         for key, freq in counter.items():
             group_size = key + 1
             groups = math.ceil(freq / group_size)
