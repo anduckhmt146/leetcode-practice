@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/anduckhmt146/leetcode-practice/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Prefix Sum
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anduckhmt146/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anduckhmt146/leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/anduckhmt146/leetcode-practice/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/anduckhmt146/leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Design
 |  |
@@ -324,4 +327,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
