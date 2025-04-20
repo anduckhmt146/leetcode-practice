@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/anduckhmt146/leetcode-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anduckhmt146/leetcode-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anduckhmt146/leetcode-practice/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/anduckhmt146/leetcode-practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/anduckhmt146/leetcode-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/anduckhmt146/leetcode-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/anduckhmt146/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
