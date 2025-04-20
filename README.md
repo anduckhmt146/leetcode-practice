@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anduckhmt146/leetcode-practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anduckhmt146/leetcode-practice/tree/master/0238-product-of-array-except-self) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/anduckhmt146/leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anduckhmt146/leetcode-practice/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/anduckhmt146/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/anduckhmt146/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -335,6 +338,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
