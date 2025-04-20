@@ -10,6 +10,3 @@ class Solution:
                 return key
 
         return -1
-
-
-        
