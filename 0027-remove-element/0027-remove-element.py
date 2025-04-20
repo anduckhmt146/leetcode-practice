@@ -9,4 +9,3 @@ class Solution:
             pE += 1
 
         return nextNonTarget
-        
