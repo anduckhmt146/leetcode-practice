@@ -12,6 +12,7 @@ class Solution:
             # Farthest jump at step i
             farthest = max(farthest, i + nums[i]) if i + nums[i] < len(nums) else len(nums) - 1
 
+            # Jump in the largest step
             if i == nextStep:
                 count += 1
                 nextStep = farthest
