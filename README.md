@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/anduckhmt146/leetcode-practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/anduckhmt146/leetcode-practice/tree/master/0075-sort-colors) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anduckhmt146/leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anduckhmt146/leetcode-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anduckhmt146/leetcode-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anduckhmt146/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
