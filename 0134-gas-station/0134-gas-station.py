@@ -30,6 +30,8 @@ class Solution:
         for i in range(len(gas)):
             total_gas += gas[i]
             total_cost += cost[i]
+
+            # No need to add gas[i + 1] — it gets picked up in the next loop iteration.
             tank += gas[i] - cost[i]
 
             if tank < 0:
