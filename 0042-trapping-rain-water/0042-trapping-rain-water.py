@@ -12,7 +12,6 @@ class Solution:
 
                 width = i - stack[-1] - 1  
                 bounded_height = min(height[i], height[stack[-1]]) - height[top] 
-
                 water_trapped += width * bounded_height
 
             stack.append(i)
