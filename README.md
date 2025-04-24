@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anduckhmt146/leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anduckhmt146/leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/anduckhmt146/leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/anduckhmt146/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anduckhmt146/leetcode-practice/tree/master/0079-word-search) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 ## Linked List
 |  |
