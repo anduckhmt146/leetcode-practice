@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/anduckhmt146/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/anduckhmt146/leetcode-practice/tree/master/0940-fruit-into-baskets) |
+| [0965-unique-email-addresses](https://github.com/anduckhmt146/leetcode-practice/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/anduckhmt146/leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/anduckhmt146/leetcode-practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/anduckhmt146/leetcode-practice/tree/master/0874-backspace-string-compare) |
+| [0965-unique-email-addresses](https://github.com/anduckhmt146/leetcode-practice/tree/master/0965-unique-email-addresses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anduckhmt146/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1524-string-matching-in-an-array) |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/anduckhmt146/leetcode-practice/tree/master/0940-fruit-into-baskets) |
+| [0965-unique-email-addresses](https://github.com/anduckhmt146/leetcode-practice/tree/master/0965-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/anduckhmt146/leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
