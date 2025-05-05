@@ -186,10 +186,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anduckhmt146/leetcode-practice/tree/master/0079-word-search) |
+| [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anduckhmt146/leetcode-practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anduckhmt146/leetcode-practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
 |  |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anduckhmt146/leetcode-practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## String
 |  |
@@ -425,4 +428,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1524-string-matching-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
