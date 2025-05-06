@@ -65,5 +65,4 @@ class Solution:
 
         for u, v in edges:
             if not union(u, v):
-                print(parent)
                 return [u, v]
