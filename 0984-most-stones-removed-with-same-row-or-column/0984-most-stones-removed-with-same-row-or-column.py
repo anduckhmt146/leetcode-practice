@@ -3,8 +3,12 @@ class Solution:
         parent = {}
 
         def find(x):
-            if x != parent.setdefault(x, x):
-                parent[x] = find(parent[x])
+            if x not in parent:
+                parent[x] = x  # Initialize parent if x is new
+
+            if parent[x] != x:
+                parent[x] = find(parent[x])  # Path compression
+
             return parent[x]
 
         def union(x, y):
