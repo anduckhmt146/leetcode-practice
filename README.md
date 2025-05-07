@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/anduckhmt146/leetcode-practice/tree/master/0724-find-pivot-index) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anduckhmt146/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anduckhmt146/leetcode-practice/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/anduckhmt146/leetcode-practice/tree/master/0871-keys-and-rooms) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anduckhmt146/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anduckhmt146/leetcode-practice/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/anduckhmt146/leetcode-practice/tree/master/0871-keys-and-rooms) |
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anduckhmt146/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anduckhmt146/leetcode-practice/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anduckhmt146/leetcode-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1032-satisfiability-of-equality-equations) |
@@ -419,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/anduckhmt146/leetcode-practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
 | [2428-equal-row-and-column-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Bit Manipulation
