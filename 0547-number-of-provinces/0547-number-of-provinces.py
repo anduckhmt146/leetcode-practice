@@ -14,7 +14,7 @@ class Solution:
             rootX = find(x)
             rootY = find(y)
             if rootX != rootY:
-                parent[rootX] = rootY  # Union
+                parent[rootY] = rootX  # Union
 
         # Iterate through the upper triangle of the matrix to avoid duplicates
         for i in range(n):
