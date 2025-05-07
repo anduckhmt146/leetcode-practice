@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/anduckhmt146/leetcode-practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anduckhmt146/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/anduckhmt146/leetcode-practice/tree/master/0274-h-index) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/anduckhmt146/leetcode-practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anduckhmt146/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anduckhmt146/leetcode-practice/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anduckhmt146/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anduckhmt146/leetcode-practice/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/anduckhmt146/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anduckhmt146/leetcode-practice/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
@@ -411,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/anduckhmt146/leetcode-practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
 | [2428-equal-row-and-column-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Bit Manipulation
