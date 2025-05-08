@@ -1,17 +1,25 @@
+from typing import List
+from collections import defaultdict
+
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
-        if n == 1:
-            return 1
+        graph = defaultdict(list)
+        out_degree = [0] * (n + 1)
+        in_degree = [0] * (n + 1)
 
-        indegree = defaultdict(int)
-        outdegree = defaultdict(int)
+        for a, b in trust:
+            graph[a].append(b)
+            out_degree[a] += 1
+            in_degree[b] += 1
 
-        for trusts, trusted in trust:
-            outdegree[trusts] += 1
-            indegree[trusted] += 1
+        # def dfs(person, visited):
+        #     visited.add(person)
+        #     for neighbor in graph[person]:
+        #         if neighbor not in visited:
+        #             dfs(neighbor, visited)
 
-        for node, in_degree in indegree.items():
-            if in_degree == n - 1 and outdegree[node] == 0:
-                return node
+        for i in range(1, n + 1):
+            if out_degree[i] == 0 and in_degree[i] == n - 1:
+                return i
 
         return -1
