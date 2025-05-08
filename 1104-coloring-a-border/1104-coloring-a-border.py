@@ -12,7 +12,7 @@ class Solution:
             is_border = False
             for dr, dc in [(-1,0), (1,0), (0,-1), (0,1)]:
                 nr, nc = r + dr, c + dc
-                # Logic check border
+                # Logic check border, and we only want to color original_color
                 if nr < 0 or nr >= rows or nc < 0 or nc >= cols or grid[nr][nc] != original_color:
                     is_border = True
                 elif not visited[nr][nc]:
