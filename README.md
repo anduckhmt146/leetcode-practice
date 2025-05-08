@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/anduckhmt146/leetcode-practice/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/anduckhmt146/leetcode-practice/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/anduckhmt146/leetcode-practice/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/anduckhmt146/leetcode-practice/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anduckhmt146/leetcode-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/anduckhmt146/leetcode-practice/tree/master/1104-coloring-a-border) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/anduckhmt146/leetcode-practice/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/anduckhmt146/leetcode-practice/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/anduckhmt146/leetcode-practice/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/anduckhmt146/leetcode-practice/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/anduckhmt146/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/anduckhmt146/leetcode-practice/tree/master/1104-coloring-a-border) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/anduckhmt146/leetcode-practice/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/anduckhmt146/leetcode-practice/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anduckhmt146/leetcode-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/anduckhmt146/leetcode-practice/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/anduckhmt146/leetcode-practice/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/anduckhmt146/leetcode-practice/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/anduckhmt146/leetcode-practice/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anduckhmt146/leetcode-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/anduckhmt146/leetcode-practice/tree/master/1039-find-the-town-judge) |
