@@ -2,6 +2,7 @@ from collections import deque
 from typing import List
 
 class Solution:
+    # After BFS ends, distance holds the maximum distance a water cell is from the nearest land.
     def maxDistance(self, grid: List[List[int]]) -> int:
         n = len(grid)
         q = deque()
@@ -20,6 +21,8 @@ class Solution:
         directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
         distance = -1
 
+
+        # IDEA: Start from land to the deepest water
         while q:
             distance += 1
             for _ in range(len(q)):
