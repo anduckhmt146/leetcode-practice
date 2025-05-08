@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anduckhmt146/leetcode-practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
+| [0820-find-eventual-safe-states](https://github.com/anduckhmt146/leetcode-practice/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/anduckhmt146/leetcode-practice/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anduckhmt146/leetcode-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anduckhmt146/leetcode-practice/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
+| [0820-find-eventual-safe-states](https://github.com/anduckhmt146/leetcode-practice/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/anduckhmt146/leetcode-practice/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anduckhmt146/leetcode-practice/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/anduckhmt146/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anduckhmt146/leetcode-practice/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
+| [0820-find-eventual-safe-states](https://github.com/anduckhmt146/leetcode-practice/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/anduckhmt146/leetcode-practice/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anduckhmt146/leetcode-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1032-satisfiability-of-equality-equations) |
@@ -496,4 +499,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1492-time-needed-to-inform-all-employees](https://github.com/anduckhmt146/leetcode-practice/tree/master/1492-time-needed-to-inform-all-employees) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/anduckhmt146/leetcode-practice/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
