@@ -10,6 +10,9 @@ class Solution:
                 result.append(nums[:])
                 return
 
+
+            # [1,2], [1,3], [1,4]
+            # When the i = 1 is pass, i = 2 and continue
             seen = set()  # Used to skip duplicates at this recursion level
             for i in range(start, len(nums)):
                 if nums[i] in seen:
