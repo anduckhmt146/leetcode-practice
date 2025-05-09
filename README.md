@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/anduckhmt146/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anduckhmt146/leetcode-practice/tree/master/0046-permutations) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anduckhmt146/leetcode-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/anduckhmt146/leetcode-practice/tree/master/0077-combinations) |
