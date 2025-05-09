@@ -27,5 +27,6 @@ class Solution:
                 if in_degree[neighbor] == 0:
                     queue.append(neighbor)
 
+        # [0, 1]
         print("Result: ", result)
         return completed_courses == numCourses
