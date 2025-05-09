@@ -3,22 +3,21 @@ from typing import List
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         result = []
-        nums.sort()  # Sort to group duplicates together
+        nums.sort()  # Sort to make it easy to skip duplicates
 
-        def backtrack(nums, i):
-            if i == len(nums):
-                result.append(nums)
+        def backtrack(start=0):
+            if start == len(nums):
+                result.append(nums[:])
                 return
 
-            used = set()
-            for j in range(i, len(nums)):
-                if nums[j] in used:
-                    continue  # Skip duplicates at this level
+            seen = set()  # Used to skip duplicates at this recursion level
+            for i in range(start, len(nums)):
+                if nums[i] in seen:
+                    continue
+                seen.add(nums[i])
+                nums[start], nums[i] = nums[i], nums[start]
+                backtrack(start + 1)
+                nums[start], nums[i] = nums[i], nums[start]  # backtrack
 
-                used.add(nums[j])
-                new_nums = nums[:]  # make a copy
-                new_nums[i], new_nums[j] = new_nums[j], new_nums[i]
-                backtrack(new_nums, i + 1)
-
-        backtrack(nums, 0)
+        backtrack()
         return result
