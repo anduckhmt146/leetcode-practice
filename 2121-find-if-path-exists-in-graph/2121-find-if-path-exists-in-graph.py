@@ -1,21 +1,28 @@
 class Solution:
-    def dfs(self, node, graph, vis, destination):
-        if node == destination:
-            return True
-        vis[node] = True
-        for neighbor in graph[node]:
-            if not vis[neighbor]:
-                if self.dfs(neighbor, graph, vis, destination):
-                    return True
-        return False
-
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
-        # Build Graph
         graph = defaultdict(list)
+        for u, v in edges:
+            graph[u].append(v)
+            graph[v].append(u)
+        
+        visited = [False] * n
+        result = []
 
-        for src, dst in edges:
-            graph[src].append(dst)
-            graph[dst].append(src)
+        def dfs(node, target, path = []):
+            if node == target:
+                result.append(path[:])
+                return
 
-        vis = [False]*n
-        return self.dfs(source, graph, vis, destination)
+            visited[node] = True  # mark as visiting
+            path.append(node)
+            
+            for neighbor in graph[node]:
+                if not visited[neighbor]:
+                    dfs(neighbor, target, path)
+            
+            path.pop()
+
+        dfs(source, destination)
+        return len(result) > 0
+
+        
