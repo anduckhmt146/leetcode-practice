@@ -24,7 +24,7 @@ class Solution:
             next_node = edges[node]
             
             cycle_length = 0
-            # Loop dfs until meet cycle
+            # Loop dfs from a node until meet cycle
             if next_node != -1:  # valid edge
                 cycle_length = dfs(next_node, path)
 
