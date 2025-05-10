@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-time-needed-to-inform-all-employees](https://github.com/anduckhmt146/leetcode-practice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anduckhmt146/leetcode-practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-time-needed-to-inform-all-employees](https://github.com/anduckhmt146/leetcode-practice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anduckhmt146/leetcode-practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2439-longest-cycle-in-a-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anduckhmt146/leetcode-practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anduckhmt146/leetcode-practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2439-longest-cycle-in-a-graph) |
 ## String
 |  |
 | ------- |
@@ -589,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/anduckhmt146/leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/anduckhmt146/leetcode-practice/tree/master/0820-find-eventual-safe-states) |
+| [2439-longest-cycle-in-a-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2439-longest-cycle-in-a-graph) |
 ## Biconnected Component
 |  |
 | ------- |
