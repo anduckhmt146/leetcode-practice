@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1300-critical-connections-in-a-network](https://github.com/anduckhmt146/leetcode-practice/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anduckhmt146/leetcode-practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/anduckhmt146/leetcode-practice/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anduckhmt146/leetcode-practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anduckhmt146/leetcode-practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/anduckhmt146/leetcode-practice/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anduckhmt146/leetcode-practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1300-critical-connections-in-a-network](https://github.com/anduckhmt146/leetcode-practice/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anduckhmt146/leetcode-practice/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anduckhmt146/leetcode-practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anduckhmt146/leetcode-practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/2121-find-if-path-exists-in-graph) |
 ## String
 |  |
