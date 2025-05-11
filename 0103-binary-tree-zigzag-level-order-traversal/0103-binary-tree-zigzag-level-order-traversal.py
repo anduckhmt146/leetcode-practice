@@ -35,7 +35,6 @@ class Solution:
             result.append(level_nodes)
             # NOTES: If we come to backtrack here => it change level
             left_to_right = not left_to_right
-            
         
         return result
         
