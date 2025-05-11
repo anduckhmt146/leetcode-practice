@@ -2,13 +2,13 @@ from typing import List
 
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
-        nums2 = nums + nums  # simulate circular array
-        n = len(nums)
-        result = [0] * (2 * n)
+        nums2 = nums + nums
+
+        n = len(nums2)
+        result = [0] * n
         stack = []
 
-        # Compute next greater for doubled array
-        for i in range(2 * n - 1, -1, -1):
+        for i in range(n - 1, -1, -1):
             while stack and stack[-1] <= nums2[i]:
                 stack.pop()
             
@@ -19,7 +19,4 @@ class Solution:
 
             stack.append(nums2[i])
 
-        print(result)  # optional debug output
-
-        # Instead of using a hashmap (which fails on duplicates), collect result by index
-        return result[:n]
+        return result[:len(nums)]
