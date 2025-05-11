@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/anduckhmt146/leetcode-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1104-coloring-a-border](https://github.com/anduckhmt146/leetcode-practice/tree/master/1104-coloring-a-border) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1300-critical-connections-in-a-network](https://github.com/anduckhmt146/leetcode-practice/tree/master/1300-critical-connections-in-a-network) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/anduckhmt146/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/anduckhmt146/leetcode-practice/tree/master/1104-coloring-a-border) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/anduckhmt146/leetcode-practice/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0690-employee-importance) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/anduckhmt146/leetcode-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/anduckhmt146/leetcode-practice/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -675,5 +678,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/anduckhmt146/leetcode-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
