@@ -12,6 +12,8 @@ class Solution:
             return root
         
         # Search in the left and right subtrees
+
+        # Loop in both left and right, and find the first reach node
         left = self.lowestCommonAncestor(root.left, p, q)
         right = self.lowestCommonAncestor(root.right, p, q)
         
