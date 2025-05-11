@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anduckhmt146/leetcode-practice/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
@@ -607,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0690-employee-importance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0690-employee-importance) |
@@ -633,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/anduckhmt146/leetcode-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
