@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1104-coloring-a-border](https://github.com/anduckhmt146/leetcode-practice/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/anduckhmt146/leetcode-practice/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/anduckhmt146/leetcode-practice/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/anduckhmt146/leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/anduckhmt146/leetcode-practice/tree/master/1331-path-with-maximum-gold) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/anduckhmt146/leetcode-practice/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/anduckhmt146/leetcode-practice/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anduckhmt146/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/anduckhmt146/leetcode-practice/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
 |  |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anduckhmt146/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/anduckhmt146/leetcode-practice/tree/master/0937-online-stock-span) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/anduckhmt146/leetcode-practice/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Counting Sort
 |  |
