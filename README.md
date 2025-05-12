@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anduckhmt146/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/anduckhmt146/leetcode-practice/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/anduckhmt146/leetcode-practice/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anduckhmt146/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0937-online-stock-span](https://github.com/anduckhmt146/leetcode-practice/tree/master/0937-online-stock-span) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Trie
 |  |
@@ -608,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anduckhmt146/leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/anduckhmt146/leetcode-practice/tree/master/0937-online-stock-span) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Counting Sort
 |  |
@@ -707,4 +710,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/anduckhmt146/leetcode-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/anduckhmt146/leetcode-practice/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
