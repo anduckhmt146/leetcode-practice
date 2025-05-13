@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anduckhmt146/leetcode-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/anduckhmt146/leetcode-practice/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/0670-maximum-swap) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Sorting
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -474,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/anduckhmt146/leetcode-practice/tree/master/1500-count-largest-group) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -658,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Divide and Conquer
