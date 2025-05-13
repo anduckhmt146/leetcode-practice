@@ -1,6 +1,7 @@
 import heapq
 
 class Solution:
+    # IDEA: Min Heap to pop min
     def findKthLargest(self, nums: List[int], k: int) -> int:
         # Use a max-heap (invert distances)
         min_heap = []
