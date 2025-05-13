@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/anduckhmt146/leetcode-practice/tree/master/0937-online-stock-span) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Trie
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/anduckhmt146/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1184-car-pooling) |
@@ -708,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0690-employee-importance) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/anduckhmt146/leetcode-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -729,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -749,12 +753,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/anduckhmt146/leetcode-practice/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/anduckhmt146/leetcode-practice/tree/master/0937-online-stock-span) |
 ## Ordered Set
 |  |
