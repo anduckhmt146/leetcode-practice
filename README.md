@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0690-employee-importance) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/anduckhmt146/leetcode-practice/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/anduckhmt146/leetcode-practice/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0690-employee-importance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
@@ -665,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/anduckhmt146/leetcode-practice/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -692,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
