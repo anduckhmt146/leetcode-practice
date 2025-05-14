@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anduckhmt146/leetcode-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0334-increasing-triplet-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/anduckhmt146/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/0496-next-greater-element-i) |
@@ -727,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/anduckhmt146/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
