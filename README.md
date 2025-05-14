@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/anduckhmt146/leetcode-practice/tree/master/1833-find-the-highest-altitude) |
 | [1917-maximum-average-pass-ratio](https://github.com/anduckhmt146/leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
+| [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [2058-concatenation-of-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1879-maximum-score-from-removing-stones](https://github.com/anduckhmt146/leetcode-practice/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/anduckhmt146/leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
+| [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Sorting
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Prefix Sum
 |  |
@@ -687,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Divide and Conquer
 |  |
