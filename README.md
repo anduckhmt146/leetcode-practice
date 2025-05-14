@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anduckhmt146/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0016-3sum-closest) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
