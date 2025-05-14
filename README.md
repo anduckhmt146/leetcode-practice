@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/anduckhmt146/leetcode-practice/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/anduckhmt146/leetcode-practice/tree/master/1833-find-the-highest-altitude) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/anduckhmt146/leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1879-maximum-score-from-removing-stones](https://github.com/anduckhmt146/leetcode-practice/tree/master/1879-maximum-score-from-removing-stones) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/anduckhmt146/leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -502,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2428-equal-row-and-column-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Design
@@ -693,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Divide and Conquer
