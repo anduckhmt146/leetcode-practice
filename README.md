@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0907-koko-eating-bananas](https://github.com/anduckhmt146/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/anduckhmt146/leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/anduckhmt146/leetcode-practice/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/anduckhmt146/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anduckhmt146/leetcode-practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0907-koko-eating-bananas](https://github.com/anduckhmt146/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anduckhmt146/leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
