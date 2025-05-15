@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/anduckhmt146/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/anduckhmt146/leetcode-practice/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/anduckhmt146/leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/anduckhmt146/leetcode-practice/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/anduckhmt146/leetcode-practice/tree/master/1117-as-far-from-land-as-possible) |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anduckhmt146/leetcode-practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/anduckhmt146/leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
