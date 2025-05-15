@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/anduckhmt146/leetcode-practice/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0931-maximum-frequency-stack](https://github.com/anduckhmt146/leetcode-practice/tree/master/0931-maximum-frequency-stack) |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anduckhmt146/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anduckhmt146/leetcode-practice/tree/master/0443-string-compression) |
@@ -739,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anduckhmt146/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -834,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/anduckhmt146/leetcode-practice/tree/master/0937-online-stock-span) |
 ## Ordered Set
