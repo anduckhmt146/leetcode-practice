@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-path-with-maximum-gold](https://github.com/anduckhmt146/leetcode-practice/tree/master/1331-path-with-maximum-gold) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anduckhmt146/leetcode-practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anduckhmt146/leetcode-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -711,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1307-ugly-number-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1307-ugly-number-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anduckhmt146/leetcode-practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anduckhmt146/leetcode-practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/anduckhmt146/leetcode-practice/tree/master/1753-path-with-minimum-effort) |
