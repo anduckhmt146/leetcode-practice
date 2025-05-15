@@ -685,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/anduckhmt146/leetcode-practice/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/anduckhmt146/leetcode-practice/tree/master/0436-find-right-interval) |
@@ -901,4 +902,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/anduckhmt146/leetcode-practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
