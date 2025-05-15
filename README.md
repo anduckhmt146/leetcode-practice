@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/anduckhmt146/leetcode-practice/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0605-can-place-flowers) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/anduckhmt146/leetcode-practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anduckhmt146/leetcode-practice/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0502-ipo](https://github.com/anduckhmt146/leetcode-practice/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/anduckhmt146/leetcode-practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
@@ -747,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anduckhmt146/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/anduckhmt146/leetcode-practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
