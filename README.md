@@ -592,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anduckhmt146/leetcode-practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/anduckhmt146/leetcode-practice/tree/master/0874-backspace-string-compare) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0633-sum-of-square-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anduckhmt146/leetcode-practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/anduckhmt146/leetcode-practice/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
+| [0633-sum-of-square-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anduckhmt146/leetcode-practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
