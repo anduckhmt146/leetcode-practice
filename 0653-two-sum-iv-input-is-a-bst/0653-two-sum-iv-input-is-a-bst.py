@@ -4,35 +4,26 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
-        if not root:
-            return k == 0
-        
-        result = []
-        queue = deque([root])
+        # Step 1: In-order DFS traversal to get sorted list
+        def in_order(node):
+            if not node:
+                return []
+            return in_order(node.left) + [node.val] + in_order(node.right)
 
-        # When out the loop 
-        while queue:
-            level_size = len(queue)
-            
-            for _ in range(level_size):
-                node = queue.popleft()
-                result.append(node.val)
-                
-                if node.left:
-                    queue.append(node.left)
-                if node.right:
-                    queue.append(node.right)
+        nums = in_order(root)
 
-        numToIndex = {}
-        for pE in range(0, len(result)):
-            currVal = result[pE]
-
-            if k - currVal in numToIndex:
+        # Step 2: Two-pointer technique to find if two numbers sum to k
+        left, right = 0, len(nums) - 1
+        while left < right:
+            total = nums[left] + nums[right]
+            if total == k:
                 return True
-
-            numToIndex[currVal] = pE
+            elif total < k:
+                left += 1
+            else:
+                right -= 1
 
         return False
-        
