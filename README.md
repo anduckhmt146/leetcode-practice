@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/anduckhmt146/leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2058-concatenation-of-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/anduckhmt146/leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Sorting
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Prefix Sum
@@ -606,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/anduckhmt146/leetcode-practice/tree/master/1894-merge-strings-alternately) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
