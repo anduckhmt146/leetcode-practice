@@ -1,27 +1,23 @@
-from typing import List
-
 class Solution:
     def trap(self, height: List[int]) -> int:
-        stack = []
+        left, right = 0, len(height) - 1
+        left_max = right_max = 0
         water = 0
 
-        for i in range(len(height)):
-            while stack and height[stack[-1]] <= height[i]:
-                top = stack.pop()
-
-                if not stack:
-                    break  # No left boundary to trap water
-
-                # Distance (width) between the left and right boundaries
-                distance = i - stack[-1] - 1
-
-                # Height of water above the current bar
-                # Area of 2 rectangle - Area of bottom valley
-                bounded_height = min(height[stack[-1]], height[i]) - height[top]
-
-                # Add trapped water
-                water += distance * bounded_height
-
-            stack.append(i)
+        while left < right:
+            if height[left] < height[right]:
+                if height[left] >= left_max:
+                    left_max = height[left]
+                else:
+                    water += left_max - height[left]
+                left += 1
+            else:
+                if height[right] >= right_max:
+                    right_max = height[right]
+                else:
+                    water += right_max - height[right]
+                right -= 1
 
         return water
+
+            
