@@ -485,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/anduckhmt146/leetcode-practice/tree/master/1894-merge-strings-alternately) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [2128-reverse-prefix-of-word](https://github.com/anduckhmt146/leetcode-practice/tree/master/2128-reverse-prefix-of-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/anduckhmt146/leetcode-practice/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/3379-score-of-a-string) |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anduckhmt146/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/anduckhmt146/leetcode-practice/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2128-reverse-prefix-of-word](https://github.com/anduckhmt146/leetcode-practice/tree/master/2128-reverse-prefix-of-word) |
 ## Backtracking
 |  |
 | ------- |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/anduckhmt146/leetcode-practice/tree/master/1894-merge-strings-alternately) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2128-reverse-prefix-of-word](https://github.com/anduckhmt146/leetcode-practice/tree/master/2128-reverse-prefix-of-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
