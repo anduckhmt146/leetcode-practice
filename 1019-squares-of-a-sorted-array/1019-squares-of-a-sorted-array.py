@@ -18,4 +18,3 @@ class Solution:
             highestSquare -= 1
 
         return result
-            
