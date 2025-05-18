@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/anduckhmt146/leetcode-practice/tree/master/0841-shortest-distance-to-a-character) |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0841-shortest-distance-to-a-character](https://github.com/anduckhmt146/leetcode-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
