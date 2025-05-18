@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0841-shortest-distance-to-a-character](https://github.com/anduckhmt146/leetcode-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -647,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0841-shortest-distance-to-a-character](https://github.com/anduckhmt146/leetcode-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/anduckhmt146/leetcode-practice/tree/master/0874-backspace-string-compare) |
