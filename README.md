@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/anduckhmt146/leetcode-practice/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/anduckhmt146/leetcode-practice/tree/master/1117-as-far-from-land-as-possible) |
+| [1168-duplicate-zeros](https://github.com/anduckhmt146/leetcode-practice/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1184-car-pooling) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/anduckhmt146/leetcode-practice/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -673,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/anduckhmt146/leetcode-practice/tree/master/1028-interval-list-intersections) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/anduckhmt146/leetcode-practice/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1168-duplicate-zeros](https://github.com/anduckhmt146/leetcode-practice/tree/master/1168-duplicate-zeros) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anduckhmt146/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
