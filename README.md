@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/anduckhmt146/leetcode-practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0481-magical-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -650,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anduckhmt146/leetcode-practice/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0556-next-greater-element-iii) |
