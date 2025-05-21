@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/anduckhmt146/leetcode-practice/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/anduckhmt146/leetcode-practice/tree/master/1833-find-the-highest-altitude) |
+| [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/anduckhmt146/leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1923-sentence-similarity-iii) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anduckhmt146/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -724,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/anduckhmt146/leetcode-practice/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [1894-merge-strings-alternately](https://github.com/anduckhmt146/leetcode-practice/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/anduckhmt146/leetcode-practice/tree/master/1972-rotating-the-box) |
@@ -760,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anduckhmt146/leetcode-practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sliding Window
@@ -835,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/anduckhmt146/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
+| [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
@@ -1103,5 +1108,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
