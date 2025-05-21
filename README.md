@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2058-concatenation-of-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2058-concatenation-of-array) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/anduckhmt146/leetcode-practice/tree/master/2294-minimum-time-to-complete-trips) |
 | [2428-equal-row-and-column-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
@@ -729,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/anduckhmt146/leetcode-practice/tree/master/2128-reverse-prefix-of-word) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
@@ -759,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anduckhmt146/leetcode-practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -832,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/anduckhmt146/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -869,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/anduckhmt146/leetcode-practice/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/anduckhmt146/leetcode-practice/tree/master/2294-minimum-time-to-complete-trips) |
 ## Rolling Hash
@@ -1053,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
 | [0931-maximum-frequency-stack](https://github.com/anduckhmt146/leetcode-practice/tree/master/0931-maximum-frequency-stack) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1094,4 +1100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0875-longest-mountain-in-array) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
