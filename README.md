@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/anduckhmt146/leetcode-practice/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/anduckhmt146/leetcode-practice/tree/master/1833-find-the-highest-altitude) |
 | [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/anduckhmt146/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1184-car-pooling) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/anduckhmt146/leetcode-practice/tree/master/1833-find-the-highest-altitude) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Database
@@ -725,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anduckhmt146/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/anduckhmt146/leetcode-practice/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [1894-merge-strings-alternately](https://github.com/anduckhmt146/leetcode-practice/tree/master/1894-merge-strings-alternately) |
@@ -876,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anduckhmt146/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/anduckhmt146/leetcode-practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/anduckhmt146/leetcode-practice/tree/master/1753-path-with-minimum-effort) |
+| [1831-ways-to-split-array-into-three-subarrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
