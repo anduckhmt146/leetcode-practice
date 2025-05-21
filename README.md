@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/anduckhmt146/leetcode-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/anduckhmt146/leetcode-practice/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/anduckhmt146/leetcode-practice/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/anduckhmt146/leetcode-practice/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/anduckhmt146/leetcode-practice/tree/master/0979-di-string-match) |
 | [1032-satisfiability-of-equality-equations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1032-satisfiability-of-equality-equations) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/anduckhmt146/leetcode-practice/tree/master/0959-3sum-with-multiplicity) |
+| [0961-long-pressed-name](https://github.com/anduckhmt146/leetcode-practice/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/anduckhmt146/leetcode-practice/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/anduckhmt146/leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/anduckhmt146/leetcode-practice/tree/master/1009-pancake-sorting) |
