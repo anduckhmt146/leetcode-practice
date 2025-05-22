@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/anduckhmt146/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anduckhmt146/leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/anduckhmt146/leetcode-practice/tree/master/0274-h-index) |
@@ -665,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -687,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anduckhmt146/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0165-compare-version-numbers) |
@@ -954,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -1110,6 +1114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0148-sort-list) |
 ## Interactive
 |  |
 | ------- |
