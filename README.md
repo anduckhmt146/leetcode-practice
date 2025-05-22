@@ -523,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0827-expressive-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/anduckhmt146/leetcode-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/anduckhmt146/leetcode-practice/tree/master/0874-backspace-string-compare) |
@@ -711,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0696-count-binary-substrings) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0827-expressive-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/anduckhmt146/leetcode-practice/tree/master/0841-shortest-distance-to-a-character) |
