@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anduckhmt146/leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anduckhmt146/leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0257-binary-tree-paths) |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/anduckhmt146/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anduckhmt146/leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0344-reverse-string) |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anduckhmt146/leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0677-map-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0677-map-sum-pairs) |
@@ -664,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anduckhmt146/leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
 | [0677-map-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0692-top-k-frequent-words) |
