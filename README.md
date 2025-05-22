@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0692-top-k-frequent-words) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0696-count-binary-substrings) |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0648-replace-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0690-employee-importance) |
@@ -669,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anduckhmt146/leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
+| [0648-replace-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0720-longest-word-in-dictionary) |
