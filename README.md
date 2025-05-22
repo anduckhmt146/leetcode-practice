@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/anduckhmt146/leetcode-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/anduckhmt146/leetcode-practice/tree/master/0238-product-of-array-except-self) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/anduckhmt146/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/anduckhmt146/leetcode-practice/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
@@ -661,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
 | [0677-map-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0720-longest-word-in-dictionary) |
@@ -846,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/anduckhmt146/leetcode-practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
