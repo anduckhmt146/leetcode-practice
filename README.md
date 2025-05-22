@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-pancake-sorting](https://github.com/anduckhmt146/leetcode-practice/tree/master/1009-pancake-sorting) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1879-maximum-score-from-removing-stones](https://github.com/anduckhmt146/leetcode-practice/tree/master/1879-maximum-score-from-removing-stones) |
+| [1880-largest-merge-of-two-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/1880-largest-merge-of-two-strings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/anduckhmt146/leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anduckhmt146/leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/anduckhmt146/leetcode-practice/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1880-largest-merge-of-two-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/anduckhmt146/leetcode-practice/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1923-sentence-similarity-iii) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -737,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/anduckhmt146/leetcode-practice/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1880-largest-merge-of-two-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/1880-largest-merge-of-two-strings) |
 | [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [1894-merge-strings-alternately](https://github.com/anduckhmt146/leetcode-practice/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1923-sentence-similarity-iii) |
