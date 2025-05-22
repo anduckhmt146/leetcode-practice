@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/anduckhmt146/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/anduckhmt146/leetcode-practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/anduckhmt146/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -893,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/anduckhmt146/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/anduckhmt146/leetcode-practice/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/anduckhmt146/leetcode-practice/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
