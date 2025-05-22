@@ -840,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/anduckhmt146/leetcode-practice/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/anduckhmt146/leetcode-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anduckhmt146/leetcode-practice/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0556-next-greater-element-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
@@ -889,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/anduckhmt146/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/anduckhmt146/leetcode-practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/anduckhmt146/leetcode-practice/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/anduckhmt146/leetcode-practice/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
@@ -1172,4 +1174,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/anduckhmt146/leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anduckhmt146/leetcode-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anduckhmt146/leetcode-practice/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
