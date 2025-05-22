@@ -839,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anduckhmt146/leetcode-practice/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0326-power-of-three](https://github.com/anduckhmt146/leetcode-practice/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0556-next-greater-element-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0633-sum-of-square-numbers) |
@@ -1170,4 +1171,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anduckhmt146/leetcode-practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/anduckhmt146/leetcode-practice/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
