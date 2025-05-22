@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-expressive-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/anduckhmt146/leetcode-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/anduckhmt146/leetcode-practice/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/anduckhmt146/leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0875-longest-mountain-in-array) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
+| [0853-most-profit-assigning-work](https://github.com/anduckhmt146/leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0917-boats-to-save-people](https://github.com/anduckhmt146/leetcode-practice/tree/master/0917-boats-to-save-people) |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0852-friends-of-appropriate-ages](https://github.com/anduckhmt146/leetcode-practice/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/anduckhmt146/leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0917-boats-to-save-people](https://github.com/anduckhmt146/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/anduckhmt146/leetcode-practice/tree/master/0941-sort-array-by-parity) |
@@ -710,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-expressive-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0827-expressive-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/anduckhmt146/leetcode-practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/anduckhmt146/leetcode-practice/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/anduckhmt146/leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/anduckhmt146/leetcode-practice/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0875-longest-mountain-in-array) |
@@ -872,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anduckhmt146/leetcode-practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0852-friends-of-appropriate-ages](https://github.com/anduckhmt146/leetcode-practice/tree/master/0852-friends-of-appropriate-ages) |
+| [0853-most-profit-assigning-work](https://github.com/anduckhmt146/leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/anduckhmt146/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anduckhmt146/leetcode-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
