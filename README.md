@@ -867,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1307-ugly-number-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1307-ugly-number-iii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/anduckhmt146/leetcode-practice/tree/master/1359-circular-permutation-in-binary-representation) |
+| [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/anduckhmt146/leetcode-practice/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1500-count-largest-group](https://github.com/anduckhmt146/leetcode-practice/tree/master/1500-count-largest-group) |
 | [1879-maximum-score-from-removing-stones](https://github.com/anduckhmt146/leetcode-practice/tree/master/1879-maximum-score-from-removing-stones) |
 ## Memoization
