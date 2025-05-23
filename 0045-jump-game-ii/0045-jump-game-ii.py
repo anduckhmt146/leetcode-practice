@@ -1,22 +1,15 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
+        jumps = 0
+        current_end = 0
         farthest = 0
-        nextStep = 0
-        count = 0
-        # Final step do not need to jump
-        for i in range(0, len(nums) - 1):
-            # Previous step can not read here
-            if (i > farthest): 
-                return 0
 
-            # Farthest jump at step i
-            farthest = max(farthest, i + nums[i]) if i + nums[i] < len(nums) else len(nums) - 1
+        # [0, 2]
+        for i in range(len(nums) - 1):
+            farthest = max(farthest, i + nums[i])
+            if i == current_end:
+                jumps += 1
+                current_end = farthest
 
-            # Jump in the largest step
-            if i == nextStep:
-                count += 1
-                nextStep = farthest
-        
-        return count
-        
+        return jumps
         
