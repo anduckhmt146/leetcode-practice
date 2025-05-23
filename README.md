@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-camelcase-matching](https://github.com/anduckhmt146/leetcode-practice/tree/master/1080-camelcase-matching) |
 | [1104-coloring-a-border](https://github.com/anduckhmt146/leetcode-practice/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/anduckhmt146/leetcode-practice/tree/master/1117-as-far-from-land-as-possible) |
+| [1139-previous-permutation-with-one-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/1139-previous-permutation-with-one-swap) |
 | [1168-duplicate-zeros](https://github.com/anduckhmt146/leetcode-practice/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1184-car-pooling) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/anduckhmt146/leetcode-practice/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/anduckhmt146/leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/anduckhmt146/leetcode-practice/tree/master/1009-pancake-sorting) |
+| [1139-previous-permutation-with-one-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/1139-previous-permutation-with-one-swap) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1879-maximum-score-from-removing-stones](https://github.com/anduckhmt146/leetcode-practice/tree/master/1879-maximum-score-from-removing-stones) |
 | [1880-largest-merge-of-two-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/1880-largest-merge-of-two-strings) |
