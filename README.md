@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2058-concatenation-of-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2058-concatenation-of-array) |
+| [2118-maximum-earnings-from-taxi](https://github.com/anduckhmt146/leetcode-practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/anduckhmt146/leetcode-practice/tree/master/2294-minimum-time-to-complete-trips) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2118-maximum-earnings-from-taxi](https://github.com/anduckhmt146/leetcode-practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Prefix Sum
@@ -702,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2118-maximum-earnings-from-taxi](https://github.com/anduckhmt146/leetcode-practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2428-equal-row-and-column-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Design
 |  |
@@ -861,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2118-maximum-earnings-from-taxi](https://github.com/anduckhmt146/leetcode-practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sliding Window
 |  |
@@ -994,6 +998,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2118-maximum-earnings-from-taxi](https://github.com/anduckhmt146/leetcode-practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/anduckhmt146/leetcode-practice/tree/master/2294-minimum-time-to-complete-trips) |
