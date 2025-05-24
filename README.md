@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/anduckhmt146/leetcode-practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/anduckhmt146/leetcode-practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0827-expressive-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0827-expressive-words) |
@@ -656,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/anduckhmt146/leetcode-practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
 | [0931-maximum-frequency-stack](https://github.com/anduckhmt146/leetcode-practice/tree/master/0931-maximum-frequency-stack) |
@@ -761,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0696-count-binary-substrings) |
+| [0768-partition-labels](https://github.com/anduckhmt146/leetcode-practice/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0827-expressive-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0827-expressive-words) |
