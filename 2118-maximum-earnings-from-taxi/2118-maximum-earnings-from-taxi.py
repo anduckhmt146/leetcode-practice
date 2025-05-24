@@ -3,18 +3,27 @@ import bisect
 
 class Solution:
     def maxTaxiEarnings(self, n: int, rides: List[List[int]]) -> int:
-        # Sort rides by end time
+        # Sort rides by end time (important for bottom-up)
         rides.sort(key=lambda x: x[1])
-        # dp[i] will store the max earnings up to the i-th ride
-        dp = [0] * (len(rides) + 1)
-        # end_times will store the end time of each ride for binary search
-        end_times = [ride[1] for ride in rides]
+        
+        # Extract starts and ends separately for binary search
+        starts = [ride[0] for ride in rides]
+        ends = [ride[1] for ride in rides]
 
+        dp = [0] * (len(rides) + 1)  # dp[i] = max earnings considering rides up to i-th (1-indexed)
+        
         for i in range(1, len(rides) + 1):
             start, end, tip = rides[i - 1]
             earning = end - start + tip
-            # Find the last ride that ends before the current ride starts
-            j = bisect.bisect_right(end_times, start)  # gives index of first end_time > start
-            dp[i] = max(dp[i - 1], dp[j] + earning)
-
+            
+            # Find last ride that ends before this ride starts (non-overlapping)
+            # We want ride with end <= start, so binary search on ends for start
+            # bisect_right gives insertion pos, subtract 1 for index of last non-overlapping ride
+            idx = bisect.bisect_right(ends, start)  
+            
+            # dp[i] is max of:
+            # 1) skip current ride: dp[i-1]
+            # 2) take current ride: earning + dp[idx]
+            dp[i] = max(dp[i-1], earning + dp[idx])
+        
         return dp[-1]
