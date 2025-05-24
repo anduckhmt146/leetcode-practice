@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anduckhmt146/leetcode-practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anduckhmt146/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-bag-of-tokens](https://github.com/anduckhmt146/leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/anduckhmt146/leetcode-practice/tree/master/1009-pancake-sorting) |
 | [1139-previous-permutation-with-one-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/1139-previous-permutation-with-one-swap) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1879-maximum-score-from-removing-stones](https://github.com/anduckhmt146/leetcode-practice/tree/master/1879-maximum-score-from-removing-stones) |
 | [1880-largest-merge-of-two-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/1880-largest-merge-of-two-strings) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1184-car-pooling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1184-car-pooling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -670,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/anduckhmt146/leetcode-practice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/anduckhmt146/leetcode-practice/tree/master/1500-count-largest-group) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
