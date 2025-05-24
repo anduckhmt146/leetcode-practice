@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/anduckhmt146/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1487-cinema-seat-allocation](https://github.com/anduckhmt146/leetcode-practice/tree/master/1487-cinema-seat-allocation) |
 | [1524-string-matching-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anduckhmt146/leetcode-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-pancake-sorting](https://github.com/anduckhmt146/leetcode-practice/tree/master/1009-pancake-sorting) |
 | [1139-previous-permutation-with-one-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/1139-previous-permutation-with-one-swap) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1487-cinema-seat-allocation](https://github.com/anduckhmt146/leetcode-practice/tree/master/1487-cinema-seat-allocation) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1879-maximum-score-from-removing-stones](https://github.com/anduckhmt146/leetcode-practice/tree/master/1879-maximum-score-from-removing-stones) |
 | [1880-largest-merge-of-two-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/1880-largest-merge-of-two-strings) |
@@ -675,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1487-cinema-seat-allocation](https://github.com/anduckhmt146/leetcode-practice/tree/master/1487-cinema-seat-allocation) |
 | [1500-count-largest-group](https://github.com/anduckhmt146/leetcode-practice/tree/master/1500-count-largest-group) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/anduckhmt146/leetcode-practice/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anduckhmt146/leetcode-practice/tree/master/1777-determine-if-two-strings-are-close) |
@@ -928,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/anduckhmt146/leetcode-practice/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anduckhmt146/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1487-cinema-seat-allocation](https://github.com/anduckhmt146/leetcode-practice/tree/master/1487-cinema-seat-allocation) |
 | [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/anduckhmt146/leetcode-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
