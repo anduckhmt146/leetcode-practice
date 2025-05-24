@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0406-queue-reconstruction-by-height](https://github.com/anduckhmt146/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/anduckhmt146/leetcode-practice/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/anduckhmt146/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
@@ -852,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
