@@ -565,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/anduckhmt146/leetcode-practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0481-magical-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anduckhmt146/leetcode-practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0541-reverse-string-ii) |
@@ -862,6 +863,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
