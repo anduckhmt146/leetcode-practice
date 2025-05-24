@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-longest-mountain-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0875-longest-mountain-in-array) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/anduckhmt146/leetcode-practice/tree/master/0890-lemonade-change) |
+| [0901-advantage-shuffle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0901-advantage-shuffle) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/anduckhmt146/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/anduckhmt146/leetcode-practice/tree/master/0917-boats-to-save-people) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/anduckhmt146/leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/anduckhmt146/leetcode-practice/tree/master/0890-lemonade-change) |
+| [0901-advantage-shuffle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0901-advantage-shuffle) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0917-boats-to-save-people](https://github.com/anduckhmt146/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/anduckhmt146/leetcode-practice/tree/master/0979-di-string-match) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/anduckhmt146/leetcode-practice/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/anduckhmt146/leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0901-advantage-shuffle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/anduckhmt146/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/anduckhmt146/leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0958-sort-array-by-parity-ii) |
@@ -784,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/anduckhmt146/leetcode-practice/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0875-longest-mountain-in-array) |
+| [0901-advantage-shuffle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/anduckhmt146/leetcode-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/anduckhmt146/leetcode-practice/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0953-reverse-only-letters) |
