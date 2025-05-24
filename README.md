@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/anduckhmt146/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/anduckhmt146/leetcode-practice/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0503-next-greater-element-ii) |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
 | [1331-path-with-maximum-gold](https://github.com/anduckhmt146/leetcode-practice/tree/master/1331-path-with-maximum-gold) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/anduckhmt146/leetcode-practice/tree/master/1359-circular-permutation-in-binary-representation) |
@@ -854,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
