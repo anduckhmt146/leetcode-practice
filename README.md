@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/anduckhmt146/leetcode-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0690-employee-importance) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/anduckhmt146/leetcode-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/anduckhmt146/leetcode-practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/anduckhmt146/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/anduckhmt146/leetcode-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0720-longest-word-in-dictionary) |
@@ -897,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/anduckhmt146/leetcode-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
