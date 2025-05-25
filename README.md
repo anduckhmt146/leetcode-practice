@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anduckhmt146/leetcode-practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anduckhmt146/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anduckhmt146/leetcode-practice/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-reduce-array-size-to-the-half](https://github.com/anduckhmt146/leetcode-practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anduckhmt146/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1026-string-without-aaa-or-bbb](https://github.com/anduckhmt146/leetcode-practice/tree/master/1026-string-without-aaa-or-bbb) |
 | [1139-previous-permutation-with-one-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/1139-previous-permutation-with-one-swap) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anduckhmt146/leetcode-practice/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-reduce-array-size-to-the-half](https://github.com/anduckhmt146/leetcode-practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anduckhmt146/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1487-cinema-seat-allocation](https://github.com/anduckhmt146/leetcode-practice/tree/master/1487-cinema-seat-allocation) |
@@ -930,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/anduckhmt146/leetcode-practice/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anduckhmt146/leetcode-practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/anduckhmt146/leetcode-practice/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anduckhmt146/leetcode-practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1881-closest-subsequence-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/1881-closest-subsequence-sum) |
