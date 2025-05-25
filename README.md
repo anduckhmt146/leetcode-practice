@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/anduckhmt146/leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0875-longest-mountain-in-array) |
+| [0880-rectangle-area-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0880-rectangle-area-ii) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/anduckhmt146/leetcode-practice/tree/master/0890-lemonade-change) |
 | [0901-advantage-shuffle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0901-advantage-shuffle) |
@@ -1271,12 +1272,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
 | [0731-my-calendar-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0732-my-calendar-iii) |
+| [0880-rectangle-area-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0880-rectangle-area-ii) |
 | [0931-maximum-frequency-stack](https://github.com/anduckhmt146/leetcode-practice/tree/master/0931-maximum-frequency-stack) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/anduckhmt146/leetcode-practice/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Line Sweep
 |  |
 | ------- |
+| [0880-rectangle-area-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0880-rectangle-area-ii) |
 | [1028-interval-list-intersections](https://github.com/anduckhmt146/leetcode-practice/tree/master/1028-interval-list-intersections) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Bucket Sort
@@ -1337,4 +1340,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/anduckhmt146/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0731-my-calendar-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0732-my-calendar-iii) |
+| [0880-rectangle-area-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0880-rectangle-area-ii) |
 <!---LeetCode Topics End-->
