@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/anduckhmt146/leetcode-practice/tree/master/0436-find-right-interval) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anduckhmt146/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anduckhmt146/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0475-heaters) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/anduckhmt146/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anduckhmt146/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anduckhmt146/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/anduckhmt146/leetcode-practice/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0605-can-place-flowers) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/anduckhmt146/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/anduckhmt146/leetcode-practice/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anduckhmt146/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anduckhmt146/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/anduckhmt146/leetcode-practice/tree/master/0502-ipo) |
