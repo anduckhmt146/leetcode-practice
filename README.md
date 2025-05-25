@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0391-perfect-rectangle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0391-perfect-rectangle) |
 | [0406-queue-reconstruction-by-height](https://github.com/anduckhmt146/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
@@ -1279,6 +1280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Line Sweep
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0391-perfect-rectangle) |
 | [0880-rectangle-area-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0880-rectangle-area-ii) |
 | [1028-interval-list-intersections](https://github.com/anduckhmt146/leetcode-practice/tree/master/1028-interval-list-intersections) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
