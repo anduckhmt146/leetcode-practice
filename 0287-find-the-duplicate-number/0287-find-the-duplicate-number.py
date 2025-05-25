@@ -2,20 +2,17 @@ from typing import List
 
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-        # Phase 1: Finding the intersection point of the two runners.
-        slow = nums[0]
-        fast = nums[0]
-
-        while True:
-            slow = nums[slow]
-            fast = nums[nums[fast]]
-            if slow == fast:
-                break
-
-        # Phase 2: Find the entrance to the cycle.
-        slow = nums[0]
-        while slow != fast:
-            slow = nums[slow]
-            fast = nums[fast]
-
-        return slow
+        i = 0
+        n = len(nums)
+        
+        while i < n:
+            correct_pos = nums[i] - 1
+            if nums[i] != nums[correct_pos]:
+                nums[i], nums[correct_pos] = nums[correct_pos], nums[i]
+            else:
+                if i != correct_pos:
+                    # Duplicate found
+                    return nums[i]
+                else:
+                    i += 1
+        return -1  # If no duplicate found (problem guarantees one duplicate)
