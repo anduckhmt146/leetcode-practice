@@ -544,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/anduckhmt146/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anduckhmt146/leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/anduckhmt146/leetcode-practice/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anduckhmt146/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anduckhmt146/leetcode-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anduckhmt146/leetcode-practice/tree/master/0125-valid-palindrome) |
@@ -856,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anduckhmt146/leetcode-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anduckhmt146/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
