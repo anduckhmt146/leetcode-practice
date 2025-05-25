@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1983-maximum-population-year](https://github.com/anduckhmt146/leetcode-practice/tree/master/1983-maximum-population-year) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anduckhmt146/leetcode-practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2058-concatenation-of-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/anduckhmt146/leetcode-practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/anduckhmt146/leetcode-practice/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/anduckhmt146/leetcode-practice/tree/master/1983-maximum-population-year) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anduckhmt146/leetcode-practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/anduckhmt146/leetcode-practice/tree/master/3034-points-that-intersect-with-cars) |
 ## Database
@@ -726,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/anduckhmt146/leetcode-practice/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anduckhmt146/leetcode-practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2118-maximum-earnings-from-taxi](https://github.com/anduckhmt146/leetcode-practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2428-equal-row-and-column-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/anduckhmt146/leetcode-practice/tree/master/3034-points-that-intersect-with-cars) |
