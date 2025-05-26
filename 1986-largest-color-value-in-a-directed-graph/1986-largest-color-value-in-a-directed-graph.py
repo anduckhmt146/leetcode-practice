@@ -19,7 +19,7 @@ class Solution:
             if in_degree[i] == 0:
                 queue.append(i)
                 color_count[i][ord(colors[i]) - ord('a')] = 1
-        
+
         visited = 0
         max_color_value = 0
         
