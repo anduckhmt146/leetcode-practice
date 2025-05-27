@@ -1001,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/anduckhmt146/leetcode-practice/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1500-count-largest-group](https://github.com/anduckhmt146/leetcode-practice/tree/master/1500-count-largest-group) |
 | [1879-maximum-score-from-removing-stones](https://github.com/anduckhmt146/leetcode-practice/tree/master/1879-maximum-score-from-removing-stones) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Memoization
 |  |
 | ------- |
