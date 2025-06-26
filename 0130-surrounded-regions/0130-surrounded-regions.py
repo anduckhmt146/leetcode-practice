@@ -1,30 +1,39 @@
 class Solution:
-    def solve(self, board):
-        if not board or not board[0]:
-            return
+    def solve(self, board: List[List[str]]) -> None:
+        """
+        Do not return anything, modify board in-place instead.
+        """
+        row, col = len(board), len(board[0])
+        visited = [[False for _ in range(col)] for _ in range(row)]
 
-        rows, cols = len(board), len(board[0])
+        def isValid(row_index, col_index):
+            return 0 <= row_index < row and 0 <= col_index < col and not visited[row_index][col_index]
 
-        def dfs(r, c):
-            if r < 0 or r >= rows or c < 0 or c >= cols or board[r][c] != 'O':
+        def dfs(row_index, col_index):
+            if not isValid(row_index, col_index) or board[row_index][col_index] != "O":
                 return
-            board[r][c] = '#'  # temporary mark
-            dfs(r + 1, c)
-            dfs(r - 1, c)
-            dfs(r, c + 1)
-            dfs(r, c - 1)
+            
+            # Visited it
+            board[row_index][col_index] = "#" 
+            visited[row_index][col_index] = True
 
-        # Step 1: Mark border-connected 'O's
-        for i in range(rows):
+            # DFS without backtrack
+            dfs(row_index + 1, col_index)
+            dfs(row_index - 1, col_index)
+            dfs(row_index, col_index + 1)
+            dfs(row_index, col_index - 1)
+
+        # DFS in borders
+        for i in range(row):
             dfs(i, 0)
-            dfs(i, cols - 1)
-        for j in range(cols):
+            dfs(i, col - 1)
+        for j in range(col):
             dfs(0, j)
-            dfs(rows - 1, j)
+            dfs(row - 1, j)
 
-        # Step 2: Flip internal 'O' to 'X', and '#' back to 'O'
-        for i in range(rows):
-            for j in range(cols):
+
+        for i in range(row):
+            for j in range(col):
                 if board[i][j] == 'O':
                     board[i][j] = 'X'
                 elif board[i][j] == '#':
