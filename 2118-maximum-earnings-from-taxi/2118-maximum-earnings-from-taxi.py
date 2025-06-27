@@ -1,20 +1,22 @@
+from bisect import bisect_right
+
 class Solution:
     def maxTaxiEarnings(self, n: int, rides: List[List[int]]) -> int:
-        rides.sort(key=lambda x: x[1])
+        # Sort by end_time
+        rides.sort(key=lambda x:x[1]) # Sort by end_time
         m = len(rides)
 
-        # Extract end times for binary search
+        # Store the max_value in job i
         end_times = [ride[1] for ride in rides]
-        dp = [0] * (m + 1)
+        dp = [0] * (m  + 1)
 
+        # Start from i + 1 -> i
         for i in range(1, m + 1):
             start, end, tip = rides[i - 1]
-            earnings = end - start + tip
+            earning = end - start + tip
 
-            # Find the last ride that ends <= current ride's start
-            idx = bisect_right(end_times, start, lo=0, hi=i - 1)
-            # Two choices: take current ride or skip
-            dp[i] = max(dp[i - 1], dp[idx] + earnings)
+            idx = bisect_right(end_times, start, lo = 0, hi = i - 1)
+            dp[i] = max(dp[i - 1], dp[idx] + earning)
 
         return dp[m]
-        
+
