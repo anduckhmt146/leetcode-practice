@@ -608,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anduckhmt146/leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
+| [0227-basic-calculator-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0344-reverse-string) |
@@ -674,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/anduckhmt146/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anduckhmt146/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anduckhmt146/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/anduckhmt146/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
@@ -992,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/anduckhmt146/leetcode-practice/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anduckhmt146/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/anduckhmt146/leetcode-practice/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/0268-missing-number) |
