@@ -58,8 +58,8 @@ class Solution:
                 heapq.heappush(maxHeap, remaining_task)
 
             process_time += steps
-            if not maxHeap and len(coolDownTasks) > 0:
-                process_time += len(coolDownTasks)
+            # if not maxHeap and len(coolDownTasks) > 0:
+            #     process_time += len(coolDownTasks)
         
 
         return process_time
