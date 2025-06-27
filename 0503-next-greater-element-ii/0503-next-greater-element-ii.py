@@ -1,22 +1,27 @@
-from typing import List
-
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
         nums2 = nums + nums
-
         n = len(nums2)
-        result = [0] * n
-        stack = []
 
+        # Init a stack
+        stack = []
+        
+        # Result array
+        res = [0] * n
+
+        # Loop from the end of the array
+        # Use stack for reserved order
         for i in range(n - 1, -1, -1):
+            #  Remove all smaller elements in stack
             while stack and stack[-1] <= nums2[i]:
                 stack.pop()
             
+            # Update value
             if stack:
-                result[i] = stack[-1]
+                res[i] = stack[-1]
             else:
-                result[i] = -1
+                res[i] = -1
 
             stack.append(nums2[i])
 
-        return result[:len(nums)]
+        return res[:len(nums)]
