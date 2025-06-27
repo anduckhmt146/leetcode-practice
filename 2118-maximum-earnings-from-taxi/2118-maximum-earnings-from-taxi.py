@@ -1,34 +1,20 @@
-from typing import List
-import bisect
-
 class Solution:
     def maxTaxiEarnings(self, n: int, rides: List[List[int]]) -> int:
-        # Sort rides by start time
-        rides.sort(key=lambda x: x[0])
-        starts = [ride[0] for ride in rides]
+        rides.sort(key=lambda x: x[1])
+        m = len(rides)
 
-        memo = {}
+        # Extract end times for binary search
+        end_times = [ride[1] for ride in rides]
+        dp = [0] * (m + 1)
 
-        def knapsack(currIndex: int) -> int:
-            # Base case
-            if currIndex >= len(rides):
-                return 0
+        for i in range(1, m + 1):
+            start, end, tip = rides[i - 1]
+            earnings = end - start + tip
 
-            if currIndex in memo:
-                return memo[currIndex]
+            # Find the last ride that ends <= current ride's start
+            idx = bisect_right(end_times, start, lo=0, hi=i - 1)
+            # Two choices: take current ride or skip
+            dp[i] = max(dp[i - 1], dp[idx] + earnings)
 
-            start, end, tip = rides[currIndex]
-            earning = (end - start) + tip
-
-            # Find next ride index that can be taken after this one
-            nextIndex = bisect.bisect_left(starts, end)
-
-            # Option 1: Include current ride + optimal from next compatible ride
-            include = earning + knapsack(nextIndex)
-            # Option 2: Skip current ride
-            exclude = knapsack(currIndex + 1)
-
-            memo[currIndex] = max(include, exclude)
-            return memo[currIndex]
-
-        return knapsack(0)
+        return dp[m]
+        
