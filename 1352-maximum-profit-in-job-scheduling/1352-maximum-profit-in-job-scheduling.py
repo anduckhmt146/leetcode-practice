@@ -1,21 +1,20 @@
-from typing import List
-import bisect
+from bisect import bisect_right
 
 class Solution:
-    def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
-        # Combine all jobs into a list of tuples and sort by end time
-        jobs = sorted(zip(startTime, endTime, profit), key=lambda x: x[1])
-        
-        # dp will store pairs of (endTime, maxProfitUntilThatTime)
-        dp = [(0, 0)]  # base case: at time 0, profit is 0
-        
-        for s, e, p in jobs:
-            # Use binary search to find the latest job that ends before the current job starts
-            i = bisect.bisect_right(dp, (s, float('inf'))) - 1
-            # Calculate new profit if this job is included
-            curr_profit = dp[i][1] + p
-            # Only add to dp if it's better than the last recorded profit
-            if curr_profit > dp[-1][1]:
-                dp.append((e, curr_profit))
-        
-        return dp[-1][1]
+    def jobScheduling(self, startTime, endTime, profit):
+        # Combine all job info
+        jobs = sorted(zip(startTime, endTime, profit), key=lambda x: x[1])  # sort by endTime
+        n = len(jobs)
+
+        # dp[i]: max profit until taking to first i jobs
+        dp = [0] * (n + 1)
+        end_times = [job[1] for job in jobs]
+
+        for i in range(1, n + 1):
+            s, e, p = jobs[i - 1]
+            
+            # Find the last job that ends before this one starts
+            idx = bisect_right(end_times, s, lo=0, hi=i-1)  # binary search
+            dp[i] = max(dp[i - 1], dp[idx] + p)
+
+        return dp[n]
