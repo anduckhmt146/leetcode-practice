@@ -1,35 +1,68 @@
-from typing import List
+# from collections import Counter
+# import heapq
+
+# class Solution:
+#     def leastInterval(self, tasks, n):
+#         tasksCount = Counter(tasks)
+#         min_least_time = 0
+        
+#         maxHeap = [-count for count in tasksCount.values()]
+#         heapq.heapify(maxHeap)
+        
+#         while maxHeap:
+#             temp = []
+#             steps = 0
+            
+#             for _ in range(n + 1):
+#                 if maxHeap:
+#                     cnt = heapq.heappop(maxHeap)
+#                     if cnt + 1 < 0:
+#                         temp.append(cnt + 1)
+#                     steps += 1
+#                 elif temp:
+#                     steps += 1
+            
+#             # Push remaining (cooldown) tasks back into the heap
+#             for item in temp:
+#                 heapq.heappush(maxHeap, item)
+            
+#             min_least_time += steps if maxHeap else len(temp) + steps
+        
+#         return min_least_time
+
 from collections import Counter
 import heapq
 
 class Solution:
-    def leastInterval(self, tasks: List[str], n: int) -> int:
-        task_counts = Counter(tasks)
-    
-        # Max heap: use negative counts because heapq is a min-heap
-        max_heap = [-cnt for cnt in task_counts.values()]
-        heapq.heapify(max_heap)
+    def leastInterval(self, tasks, n):
+        tasksCount = Counter(tasks)
+        maxHeap = [-count for count in tasksCount.values()]
+        heapq.heapify(maxHeap)
+        process_time = 0
 
-        time = 0
-        while max_heap:
-            temp = []
-            cycle = 0
-
-            # Try to execute up to n + 1 tasks in one cycle
+        while maxHeap:
+            coolDownTasks = []
+            steps = 0
+            # Each cycle
             for _ in range(n + 1):
-                if max_heap:
-                    cnt = heapq.heappop(max_heap)
-                    if cnt + 1 < 0:
-                        temp.append(cnt + 1)  # Task not finished
-                    cycle += 1
-                elif temp:
-                    cycle += 1  # Idle time
+                if maxHeap:
+                    max_workload_jobs = heapq.heappop(maxHeap)
+                    if max_workload_jobs + 1 < 0:
+                        coolDownTasks.append(max_workload_jobs + 1)
+                    steps += 1
+                elif coolDownTasks:
+                    # idle jobs
+                    steps += 1
+            
+            for remaining_task in coolDownTasks:
+                heapq.heappush(maxHeap, remaining_task)
 
-            # Push unfinished tasks back into the heap
-            for item in temp:
-                heapq.heappush(max_heap, item)
+            process_time += steps
+            if not maxHeap and len(coolDownTasks) > 0:
+                process_time += len(coolDownTasks)
+        
 
-            # If heap is empty, only count actual time used (no trailing idles)
-            time += cycle if max_heap else len(temp) + cycle
-
-        return time
+        return process_time
+            
+                    
+            
