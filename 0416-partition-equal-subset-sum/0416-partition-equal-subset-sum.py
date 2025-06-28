@@ -1,34 +1,24 @@
-from typing import List
-
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        total_sum = sum(nums)
-        # If total sum is odd, can't partition equally
-        if total_sum % 2 != 0:
+        # Check we can contribute the target // 2 in the current array => If an array can sum to target // 2 in the index i => the rest still target // 2 too
+        if sum(nums) % 2 != 0:
             return False
 
-        target = total_sum // 2
-        n = len(nums)
+        target = sum(nums) // 2
+        
+        # dp[i] means "Can we form a subset of numbers from the list that sums up to exactly i?"
+        dp = [False] * (target + 1)
+        dp[0] = True # No choice subset is 0, we choose []
+        # For example, dp[1] = True if we choose [1]
 
-        # dp[i][j] = True if subset of first i numbers can make sum j
-        dp = [[False] * (target + 1) for _ in range(n)]
+        # For each num, we try to add it to existing possible sums.
+        for num in nums:
+            for i in range(target, num - 1, -1):
+                dp[i] = dp[i] or dp[i - num]
 
-        # Sum 0 is always possible: take no elements
-        for i in range(n):
-            dp[i][0] = True
+        return dp[target]
 
-        # With only the first number, can we form sum nums[0]?
-        if nums[0] <= target:
-            dp[0][nums[0]] = True
 
-        # Process all subsets
-        for i in range(1, n):
-            for j in range(1, target + 1):
-                # Exclude current number
-                dp[i][j] = dp[i - 1][j]
 
-                # Include current number if it does not exceed the sum
-                if nums[i] <= j:
-                    dp[i][j] = dp[i][j] or dp[i - 1][j - nums[i]]
 
-        return dp[n - 1][target]
+         
