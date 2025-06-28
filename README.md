@@ -679,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/anduckhmt146/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anduckhmt146/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/anduckhmt146/leetcode-practice/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/anduckhmt146/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/anduckhmt146/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
@@ -798,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/anduckhmt146/leetcode-practice/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anduckhmt146/leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/anduckhmt146/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anduckhmt146/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1403,5 +1405,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anduckhmt146/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anduckhmt146/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
