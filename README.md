@@ -732,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/anduckhmt146/leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/anduckhmt146/leetcode-practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/anduckhmt146/leetcode-practice/tree/master/0187-repeated-dna-sequences) |
@@ -793,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anduckhmt146/leetcode-practice/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anduckhmt146/leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/anduckhmt146/leetcode-practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
@@ -1391,4 +1394,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0732-my-calendar-iii) |
 | [0880-rectangle-area-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0880-rectangle-area-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/anduckhmt146/leetcode-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
