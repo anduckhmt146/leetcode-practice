@@ -1,27 +1,21 @@
-# If there are no houses, return 0.
-# If there's only one house, return the money in that house.
-# For each house, there are two choices:
-# You can rob the current house, which means you should add the money from that house to the total amount up to house i-2.
-# Or, you can skip robbing the current house, and the total amount will just be the same as the amount up to house i-1.
-# Formula:
-# dp[i] = max(dp[i-1], nums[i] + dp[i-2])
 class Solution:
-    def rob(self, nums):
-        if not nums:
+    def rob(self, nums: List[int]) -> int:
+        n = len(nums)
+        # Find max -> init 0
+        # dp is max value the thief can get until the home i
+        if n == 0:
             return 0
-        elif len(nums) == 1:
+        if n == 1:
             return nums[0]
-        
-        # Initialize the dp array
-        dp = [0] * len(nums)
+
+        dp = [0] * n
         dp[0] = nums[0]
         dp[1] = max(nums[0], nums[1])
-        
-        for i in range(2, len(nums)):
-            dp[i] = max(dp[i-1], nums[i] + dp[i-2])
-        
-        return dp[-1]
 
-        
+        for i in range(2, n):
+            # dp[i - 1] là skip nhà ith
+            # dp[i - 2] + nums[i] là lấy nhà i - 2 và i
+            dp[i] = max(dp[i - 1], dp[i - 2] + nums[i])
 
-            
+        return dp[n - 1]
+        
