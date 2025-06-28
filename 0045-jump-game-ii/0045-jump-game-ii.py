@@ -1,15 +1,15 @@
+from typing import List
+
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        jumps = 0
-        current_end = 0
-        farthest = 0
+        n = len(nums)
+        dp = [float('inf')] * n  # Initialize dp array with ∞
+        dp[0] = 0  # No jumps needed to reach the first index
 
-        # [0, 2]
-        for i in range(len(nums) - 1):
-            farthest = max(farthest, i + nums[i])
-            if i == current_end:
-                jumps += 1
-                current_end = farthest
+        # Loop through every index from 1 to n-1
+        for i in range(1, n):
+            for j in range(i):
+                if j + nums[j] >= i:  # Can we jump from j to i?
+                    dp[i] = min(dp[i], dp[j] + 1)
 
-        return jumps
-        
+        return dp[n - 1]
