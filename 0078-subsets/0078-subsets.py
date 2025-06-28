@@ -1,16 +1,15 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        result = []
+        res = []
+        n = len(nums)
 
-        # Giong combination sum nhung khong co diem dung ma lay het
-        def backtrack(start, path):
-            result.append(path[:])  # Add the current subset to the result
-            for i in range(start, len(nums)):
-                path.append(nums[i])
-                # Do not contain duplicate
-                backtrack(i + 1, path)
-                path.pop()
+        def backtrack(index, path):
+            if index == n:
+                res.append(path[:])
+                return
+
+            backtrack(index + 1, path + [nums[index]])
+            backtrack(index + 1, path)
 
         backtrack(0, [])
-        return result
-        
+        return res
