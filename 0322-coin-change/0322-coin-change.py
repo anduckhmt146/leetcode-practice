@@ -1,29 +1,14 @@
-from typing import List
-
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        memo = {}
+        n = len(coins)
+        
+        # Number of way to have amount i
+        dp = [float('inf')] * (amount + 1)
+        dp[0] = 0
 
-        def dp(rem: int) -> int:
-            # Base case: if amount is 0, we need 0 coins
-            if rem == 0:
-                return 0
-            # If amount becomes negative, no solution
-            if rem < 0:
-                return float('inf')
-            # If already computed, return cached result
-            if rem in memo:
-                return memo[rem]
+        for w in range(1, amount + 1):
+            for i in range(n):
+                if coins[i] <= w:
+                    dp[w] = min(dp[w], dp[w - coins[i]] + 1)
 
-            # Try every coin and choose the best (min)
-            min_coins = float('inf')
-            for coin in coins:
-                res = dp(rem - coin)
-                if res != float('inf'):
-                    min_coins = min(min_coins, res + 1)
-
-            memo[rem] = min_coins
-            return min_coins
-
-        result = dp(amount)
-        return result if result != float('inf') else -1
+        return dp[amount] if dp[amount] != float('inf') else -1
