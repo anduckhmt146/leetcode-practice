@@ -1,11 +1,6 @@
-from typing import List
-
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        if not digits:
-            return []
-
-        phone_map = {
+        digitMapping = {
             "2": "abc",
             "3": "def",
             "4": "ghi",
@@ -16,17 +11,20 @@ class Solution:
             "9": "wxyz"
         }
 
-        result = []
+        res = []
 
-        def backtrack(index: int, path: str):
+        # Calculate in the backtrack function
+        def backtrack(index, path):
             if index == len(digits):
-                result.append(path)
+                res.append(path[:])
                 return
 
-            possible_letters = phone_map[digits[index]]
-            for letter in possible_letters:
-                # Backtrack for each letter "a", "b", "c" 
-                backtrack(index + 1, path + letter)
+            keyboardChar = digitMapping[digits[index]]
+            for char in keyboardChar:
+                # Move the logic to backtrack function too
+                backtrack(index + 1, path + char)
 
         backtrack(0, "")
-        return result
+        return res if digits != "" else []
+
+        
