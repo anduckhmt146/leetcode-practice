@@ -2,23 +2,18 @@ from typing import List
 
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        memo = {}
+        total_sum = sum(nums)
+        if (total_sum + target) % 2 != 0 or abs(target) > total_sum:
+            return 0
 
-        def backtrack(index: int, current_sum: int) -> int:
-            # Base case: if at the end of array
-            if index == len(nums):
-                return 1 if current_sum == target else 0
-            
-            # Check memo
-            if (index, current_sum) in memo:
-                return memo[(index, current_sum)]
+        subset_sum = (total_sum + target) // 2
 
-            # Choose '+'
-            positive = backtrack(index + 1, current_sum + nums[index])
-            # Choose '-'
-            negative = backtrack(index + 1, current_sum - nums[index])
+        # dp[i] = number of ways to reach sum i
+        dp = [0] * (subset_sum + 1)
+        dp[0] = 1  # One way to make sum 0 (pick nothing)
 
-            memo[(index, current_sum)] = positive + negative
-            return memo[(index, current_sum)]
+        for num in nums:
+            for j in range(subset_sum, num - 1, -1):
+                dp[j] += dp[j - num]
 
-        return backtrack(0, 0)
+        return dp[subset_sum]
