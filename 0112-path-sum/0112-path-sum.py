@@ -1,22 +1,18 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
-        def dfs(node, currentSum):
-            if not node:
+        def dfs(root, total):
+            if root is None:
                 return False
+
+            # Add the current node's value to the total sum
+            total -= root.val
             
-            currentSum += node.val
+            # If we are at a leaf node, check if the sum equals targetSum
+            if root.left is None and root.right is None:
+                return total == 0
             
-            # If it's a leaf node, check if the path sum matches targetSum
-            if not node.left and not node.right:
-                return currentSum == targetSum
-            
-            # Continue DFS on left and right subtrees
-            return dfs(node.left, currentSum) or dfs(node.right, currentSum)
-        
-        return dfs(root, 0)
+            # Otherwise, continue the DFS search for left and right subtrees
+            return dfs(root.left, total) or dfs(root.right, total)
+
+        # Miễn chỗ này trả về theo root -> targetSum là được
+        return dfs(root, targetSum)
