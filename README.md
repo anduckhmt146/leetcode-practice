@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/anduckhmt146/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/anduckhmt146/leetcode-practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/anduckhmt146/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anduckhmt146/leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anduckhmt146/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anduckhmt146/leetcode-practice/tree/master/0057-insert-interval) |
@@ -947,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/anduckhmt146/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anduckhmt146/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/anduckhmt146/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anduckhmt146/leetcode-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0072-edit-distance) |
@@ -1199,6 +1201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anduckhmt146/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/anduckhmt146/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
