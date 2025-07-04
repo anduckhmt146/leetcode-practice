@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/anduckhmt146/leetcode-practice/tree/master/0218-the-skyline-problem) |
+| [0221-maximal-square](https://github.com/anduckhmt146/leetcode-practice/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/anduckhmt146/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/0268-missing-number) |
@@ -968,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/anduckhmt146/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/anduckhmt146/leetcode-practice/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/anduckhmt146/leetcode-practice/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/anduckhmt146/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
@@ -1074,6 +1076,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/anduckhmt146/leetcode-practice/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
