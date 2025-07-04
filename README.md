@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-camelcase-matching](https://github.com/anduckhmt146/leetcode-practice/tree/master/1080-camelcase-matching) |
 | [1104-coloring-a-border](https://github.com/anduckhmt146/leetcode-practice/tree/master/1104-coloring-a-border) |
 | [1117-as-far-from-land-as-possible](https://github.com/anduckhmt146/leetcode-practice/tree/master/1117-as-far-from-land-as-possible) |
+| [1130-last-stone-weight-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1130-last-stone-weight-ii) |
 | [1139-previous-permutation-with-one-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/1139-previous-permutation-with-one-swap) |
 | [1168-duplicate-zeros](https://github.com/anduckhmt146/leetcode-practice/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -991,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/anduckhmt146/leetcode-practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1117-as-far-from-land-as-possible](https://github.com/anduckhmt146/leetcode-practice/tree/master/1117-as-far-from-land-as-possible) |
+| [1130-last-stone-weight-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/1250-longest-common-subsequence) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/1296-kth-ancestor-of-a-tree-node) |
