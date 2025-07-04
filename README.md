@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/anduckhmt146/leetcode-practice/tree/master/0959-3sum-with-multiplicity) |
 | [0965-unique-email-addresses](https://github.com/anduckhmt146/leetcode-practice/tree/master/0965-unique-email-addresses) |
+| [0967-minimum-falling-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/anduckhmt146/leetcode-practice/tree/master/0979-di-string-match) |
 | [0985-bag-of-tokens](https://github.com/anduckhmt146/leetcode-practice/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/anduckhmt146/leetcode-practice/tree/master/1009-pancake-sorting) |
@@ -983,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0875-longest-mountain-in-array) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0967-minimum-falling-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1117-as-far-from-land-as-possible](https://github.com/anduckhmt146/leetcode-practice/tree/master/1117-as-far-from-land-as-possible) |
 | [1170-shortest-common-supersequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/1250-longest-common-subsequence) |
@@ -1067,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/anduckhmt146/leetcode-practice/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
 | [0861-flipping-an-image](https://github.com/anduckhmt146/leetcode-practice/tree/master/0861-flipping-an-image) |
+| [0967-minimum-falling-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/anduckhmt146/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anduckhmt146/leetcode-practice/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/anduckhmt146/leetcode-practice/tree/master/1104-coloring-a-border) |
