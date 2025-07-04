@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anduckhmt146/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anduckhmt146/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anduckhmt146/leetcode-practice/tree/master/0456-132-pattern) |
+| [0474-ones-and-zeroes](https://github.com/anduckhmt146/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/anduckhmt146/leetcode-practice/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/0496-next-greater-element-i) |
@@ -638,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/anduckhmt146/leetcode-practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/anduckhmt146/leetcode-practice/tree/master/0468-validate-ip-address) |
+| [0474-ones-and-zeroes](https://github.com/anduckhmt146/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -981,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anduckhmt146/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/anduckhmt146/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0518-coin-change-ii) |
