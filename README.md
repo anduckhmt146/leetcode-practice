@@ -517,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/anduckhmt146/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anduckhmt146/leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/anduckhmt146/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/anduckhmt146/leetcode-practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anduckhmt146/leetcode-practice/tree/master/0547-number-of-provinces) |
@@ -965,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/anduckhmt146/leetcode-practice/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/anduckhmt146/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anduckhmt146/leetcode-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/anduckhmt146/leetcode-practice/tree/master/0322-coin-change) |
@@ -1035,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/anduckhmt146/leetcode-practice/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/anduckhmt146/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/anduckhmt146/leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anduckhmt146/leetcode-practice/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
