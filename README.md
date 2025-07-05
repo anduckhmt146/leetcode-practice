@@ -992,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
+| [0576-out-of-boundary-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0576-out-of-boundary-paths) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anduckhmt146/leetcode-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/anduckhmt146/leetcode-practice/tree/master/0650-2-keys-keyboard) |
