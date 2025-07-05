@@ -969,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/anduckhmt146/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0120-triangle) |
@@ -1055,6 +1056,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/anduckhmt146/leetcode-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anduckhmt146/leetcode-practice/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/anduckhmt146/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anduckhmt146/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/anduckhmt146/leetcode-practice/tree/master/0224-basic-calculator) |
@@ -1302,6 +1304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/anduckhmt146/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anduckhmt146/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anduckhmt146/leetcode-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -1344,12 +1347,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/anduckhmt146/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/anduckhmt146/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anduckhmt146/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anduckhmt146/leetcode-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
