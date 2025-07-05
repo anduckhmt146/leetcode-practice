@@ -11,6 +11,8 @@ class Solution:
         def dp(r, c, moves_left):
             if r < 0 or r >= n or c < 0 or c >= n:
                 return 0
+
+            # Knight is still on the board after k move
             if moves_left == 0:
                 return 1
 
