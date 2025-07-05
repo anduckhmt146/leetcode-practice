@@ -996,6 +996,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0826-soup-servings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0875-longest-mountain-in-array) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0967-minimum-falling-path-sum) |
@@ -1062,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anduckhmt146/leetcode-practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/anduckhmt146/leetcode-practice/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0826-soup-servings) |
 | [1014-k-closest-points-to-origin](https://github.com/anduckhmt146/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anduckhmt146/leetcode-practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1307-ugly-number-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1307-ugly-number-iii) |
@@ -1459,4 +1461,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anduckhmt146/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anduckhmt146/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
