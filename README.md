@@ -999,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-longest-mountain-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0875-longest-mountain-in-array) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0967-minimum-falling-path-sum) |
+| [0972-knight-dialer](https://github.com/anduckhmt146/leetcode-practice/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/anduckhmt146/leetcode-practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1117-as-far-from-land-as-possible](https://github.com/anduckhmt146/leetcode-practice/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-last-stone-weight-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1130-last-stone-weight-ii) |
