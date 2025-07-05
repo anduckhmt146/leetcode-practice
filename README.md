@@ -986,6 +986,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anduckhmt146/leetcode-practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/anduckhmt146/leetcode-practice/tree/master/0322-coin-change) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/anduckhmt146/leetcode-practice/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0392-is-subsequence) |
@@ -1069,6 +1070,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/anduckhmt146/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/anduckhmt146/leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anduckhmt146/leetcode-practice/tree/master/0342-power-of-four) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0556-next-greater-element-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0556-next-greater-element-iii) |
 | [0587-erect-the-fence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0587-erect-the-fence) |
@@ -1486,4 +1488,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0826-soup-servings) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
