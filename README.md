@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/anduckhmt146/leetcode-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/anduckhmt146/leetcode-practice/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0690-employee-importance](https://github.com/anduckhmt146/leetcode-practice/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
@@ -994,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/anduckhmt146/leetcode-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/anduckhmt146/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/anduckhmt146/leetcode-practice/tree/master/0650-2-keys-keyboard) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/anduckhmt146/leetcode-practice/tree/master/0688-knight-probability-in-chessboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
@@ -1448,11 +1450,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0218-the-skyline-problem](https://github.com/anduckhmt146/leetcode-practice/tree/master/0218-the-skyline-problem) |
 | [0406-queue-reconstruction-by-height](https://github.com/anduckhmt146/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/anduckhmt146/leetcode-practice/tree/master/0218-the-skyline-problem) |
 | [0406-queue-reconstruction-by-height](https://github.com/anduckhmt146/leetcode-practice/tree/master/0406-queue-reconstruction-by-height) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0732-my-calendar-iii) |
 | [0880-rectangle-area-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0880-rectangle-area-ii) |
