@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/anduckhmt146/leetcode-practice/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/anduckhmt146/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anduckhmt146/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/anduckhmt146/leetcode-practice/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/anduckhmt146/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/anduckhmt146/leetcode-practice/tree/master/0724-find-pivot-index) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anduckhmt146/leetcode-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/anduckhmt146/leetcode-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/anduckhmt146/leetcode-practice/tree/master/0670-maximum-swap) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anduckhmt146/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/anduckhmt146/leetcode-practice/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -1006,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/anduckhmt146/leetcode-practice/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/anduckhmt146/leetcode-practice/tree/master/0688-knight-probability-in-chessboard) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anduckhmt146/leetcode-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anduckhmt146/leetcode-practice/tree/master/0803-cheapest-flights-within-k-stops) |
