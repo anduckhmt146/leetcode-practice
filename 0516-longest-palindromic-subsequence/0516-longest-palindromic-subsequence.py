@@ -1,20 +1,21 @@
 class Solution:
     def longestPalindromeSubseq(self, s: str) -> int:
         n = len(s)
-        # Create a 2D DP array initialized to 0
         dp = [[0] * n for _ in range(n)]
 
-        # All substrings of length 1 are palindromes of length 1
+        # Base case: every single letter is a palindrome of length 1
         for i in range(n):
             dp[i][i] = 1
 
-        # Build the DP table
-        for length in range(2, n + 1):  # Substring lengths from 2 to n
-            for i in range(n - length + 1):
-                j = i + length - 1
-                if s[i] == s[j]:
-                    dp[i][j] = 2 + dp[i + 1][j - 1]
+        # Fill in order of increasing substring length
+        for end in range(n):
+            for start in range(end - 1, -1, -1):  # go backward to ensure dp[start + 1][end - 1] is ready
+                if s[start] == s[end]:
+                    if end - start == 1:
+                        dp[start][end] = 2
+                    else:
+                        dp[start][end] = 2 + dp[start + 1][end - 1]
                 else:
-                    dp[i][j] = max(dp[i + 1][j], dp[i][j - 1])
+                    dp[start][end] = max(dp[start + 1][end], dp[start][end - 1])
 
         return dp[0][n - 1]
