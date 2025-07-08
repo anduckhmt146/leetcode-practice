@@ -1,29 +1,30 @@
-import heapq
-from typing import List
-
 class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:
-        # Step 1: Add original index and sort tasks by start_time, then execute_time
-        tasks = [(task[0], task[1], i) for i, task in enumerate(tasks)]  # (start_time, process_time, index)
-        tasks.sort(key=lambda x: (x[0], x[1]))  # Sort by start_time, then process_time
+        # Sort tasks
+        tasks = [(task[0], task[1], i) for i, task in enumerate(tasks)]
+        tasks.sort(key=lambda x:(x[0], x[1]))
 
-        waiting_tasks = []
-        res = []
+        waiting_task = []
         i = 0
-        n = len(tasks)
-        time = 0
-
-        while i < n or waiting_tasks:
-            # Push all tasks available at current time into the heap
-            while i < n and tasks[i][0] <= time:
-                heapq.heappush(waiting_tasks, (tasks[i][1], tasks[i][2]))  # (process_time, index)
+        result = []
+        curr_time = 0
+        
+        while i < len(tasks) or waiting_task:
+            # Add to heap
+            while i < len(tasks) and tasks[i][0] <= curr_time:
+                heapq.heappush(waiting_task, (tasks[i][1], tasks[i][2])) # (end_time, index)
                 i += 1
 
-            if waiting_tasks:
-                process_time, index = heapq.heappop(waiting_tasks)
-                time += process_time
-                res.append(index)
+            # Process
+            if waiting_task:
+                process_time, idx = heapq.heappop(waiting_task)
+                curr_time += process_time
+                result.append(idx)
             else:
-                time = tasks[i][0]
+                curr_time = tasks[i][0]
 
-        return res
+        return result
+
+
+
+        
