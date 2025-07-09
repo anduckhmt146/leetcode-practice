@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/anduckhmt146/leetcode-practice/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anduckhmt146/leetcode-practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2012-process-tasks-using-servers](https://github.com/anduckhmt146/leetcode-practice/tree/master/2012-process-tasks-using-servers) |
 | [2055-describe-the-painting](https://github.com/anduckhmt146/leetcode-practice/tree/master/2055-describe-the-painting) |
 | [2058-concatenation-of-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/anduckhmt146/leetcode-practice/tree/master/2118-maximum-earnings-from-taxi) |
@@ -1311,6 +1312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/anduckhmt146/leetcode-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/anduckhmt146/leetcode-practice/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anduckhmt146/leetcode-practice/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2012-process-tasks-using-servers](https://github.com/anduckhmt146/leetcode-practice/tree/master/2012-process-tasks-using-servers) |
 ## Shortest Path
 |  |
 | ------- |
