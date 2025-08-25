@@ -2,16 +2,18 @@ class Solution:
     def removeKdigits(self, num: str, k: int) -> str:
         stack = []
 
-        for digit in num:
-            while k > 0 and stack and stack[-1] > digit:
+        for c in num:
+            # Push to stack
+            # If số sau < số trước => Push vào stack
+            while stack and stack[-1] > c and k > 0:
                 stack.pop()
                 k -= 1
-            stack.append(digit)
 
-        # If k > 0, remove the last k digits
-        stack = stack[:-k] if k else stack
+            stack.append(c)
 
-        # Convert to string and remove leading zeros
-        result = ''.join(stack).lstrip('0')
+        while stack and k > 0:
+            stack.pop()
+            k -= 1
 
-        return result if result else "0"
+        res = ''.join(stack).lstrip('0')
+        return res if res else '0'        
