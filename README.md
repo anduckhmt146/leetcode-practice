@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/anduckhmt146/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/anduckhmt146/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
@@ -870,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/anduckhmt146/leetcode-practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anduckhmt146/leetcode-practice/tree/master/0148-sort-list) |
@@ -1335,6 +1338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/anduckhmt146/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
@@ -1387,6 +1391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/anduckhmt146/leetcode-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anduckhmt146/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anduckhmt146/leetcode-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/anduckhmt146/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
