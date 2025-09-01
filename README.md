@@ -485,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/anduckhmt146/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/anduckhmt146/leetcode-practice/tree/master/0563-binary-tree-tilt) |
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/anduckhmt146/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/anduckhmt146/leetcode-practice/tree/master/0322-coin-change) |
+| [0449-serialize-and-deserialize-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/anduckhmt146/leetcode-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anduckhmt146/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -649,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/anduckhmt146/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/anduckhmt146/leetcode-practice/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/anduckhmt146/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/anduckhmt146/leetcode-practice/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/anduckhmt146/leetcode-practice/tree/master/0474-ones-and-zeroes) |
@@ -838,6 +841,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/anduckhmt146/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anduckhmt146/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0449-serialize-and-deserialize-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0677-map-sum-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/0677-map-sum-pairs) |
 | [0731-my-calendar-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0732-my-calendar-iii) |
@@ -1338,6 +1342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/anduckhmt146/leetcode-practice/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1367,6 +1372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/anduckhmt146/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anduckhmt146/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -1388,6 +1394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/anduckhmt146/leetcode-practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/anduckhmt146/leetcode-practice/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anduckhmt146/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
