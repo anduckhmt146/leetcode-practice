@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2727-number-of-senior-citizens](https://github.com/anduckhmt146/leetcode-practice/tree/master/2727-number-of-senior-citizens) |
 | [3034-points-that-intersect-with-cars](https://github.com/anduckhmt146/leetcode-practice/tree/master/3034-points-that-intersect-with-cars) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Greedy
 |  |
 | ------- |
