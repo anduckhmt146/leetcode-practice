@@ -710,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anduckhmt146/leetcode-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/anduckhmt146/leetcode-practice/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/anduckhmt146/leetcode-practice/tree/master/3379-score-of-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -1113,6 +1114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/anduckhmt146/leetcode-practice/tree/master/1500-count-largest-group) |
 | [1879-maximum-score-from-removing-stones](https://github.com/anduckhmt146/leetcode-practice/tree/master/1879-maximum-score-from-removing-stones) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1235,6 +1237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2483-task-scheduler-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/2483-task-scheduler-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1471,10 +1474,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/anduckhmt146/leetcode-practice/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1307-ugly-number-iii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1307-ugly-number-iii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
