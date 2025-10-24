@@ -12,8 +12,8 @@ class Solution:
                     s += d * int(d)
 
             # small optimization: if number too small, skip
-            if int(''.join(sorted(s))) > best:
-                continue
+            # if int(''.join(sorted(s))) > best:
+            #     continue
 
             # Generate permutations lazily
             for p in permutations(sorted(s)):  # sorted gives ascending order
