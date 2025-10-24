@@ -765,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/anduckhmt146/leetcode-practice/tree/master/0787-sliding-puzzle) |
 | [1331-path-with-maximum-gold](https://github.com/anduckhmt146/leetcode-practice/tree/master/1331-path-with-maximum-gold) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/anduckhmt146/leetcode-practice/tree/master/1359-circular-permutation-in-binary-representation) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anduckhmt146/leetcode-practice/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2055-describe-the-painting](https://github.com/anduckhmt146/leetcode-practice/tree/master/2055-describe-the-painting) |
 | [2118-maximum-earnings-from-taxi](https://github.com/anduckhmt146/leetcode-practice/tree/master/2118-maximum-earnings-from-taxi) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/anduckhmt146/leetcode-practice/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2428-equal-row-and-column-pairs](https://github.com/anduckhmt146/leetcode-practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2483-task-scheduler-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/2483-task-scheduler-ii) |
@@ -1113,6 +1115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/anduckhmt146/leetcode-practice/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1500-count-largest-group](https://github.com/anduckhmt146/leetcode-practice/tree/master/1500-count-largest-group) |
 | [1879-maximum-score-from-removing-stones](https://github.com/anduckhmt146/leetcode-practice/tree/master/1879-maximum-score-from-removing-stones) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
@@ -1274,6 +1277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/anduckhmt146/leetcode-practice/tree/master/1961-maximum-ice-cream-bars) |
 | [1983-maximum-population-year](https://github.com/anduckhmt146/leetcode-practice/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1484,6 +1488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/anduckhmt146/leetcode-practice/tree/master/0875-longest-mountain-in-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/anduckhmt146/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bitmask
 |  |
 | ------- |
