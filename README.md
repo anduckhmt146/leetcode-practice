@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2727-number-of-senior-citizens](https://github.com/anduckhmt146/leetcode-practice/tree/master/2727-number-of-senior-citizens) |
 | [3034-points-that-intersect-with-cars](https://github.com/anduckhmt146/leetcode-practice/tree/master/3034-points-that-intersect-with-cars) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anduckhmt146/leetcode-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Greedy
 |  |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2334-number-of-flowers-in-full-bloom](https://github.com/anduckhmt146/leetcode-practice/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/anduckhmt146/leetcode-practice/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/anduckhmt146/leetcode-practice/tree/master/3034-points-that-intersect-with-cars) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Database
 |  |
 | ------- |
@@ -1060,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anduckhmt146/leetcode-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2118-maximum-earnings-from-taxi](https://github.com/anduckhmt146/leetcode-practice/tree/master/2118-maximum-earnings-from-taxi) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anduckhmt146/leetcode-practice/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1078,6 +1081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/anduckhmt146/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anduckhmt146/leetcode-practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anduckhmt146/leetcode-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Math
 |  |
 | ------- |
@@ -1528,6 +1532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anduckhmt146/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anduckhmt146/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -1536,4 +1541,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/anduckhmt146/leetcode-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anduckhmt146/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
